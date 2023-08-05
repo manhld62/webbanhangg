@@ -1,0 +1,33 @@
+﻿@model IEnumerable<VanilaBakery.Models.BANH>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+    <div class="ps-section__header">
+        <h3 class="ps-section__title ps-section__title--left">Bán chạy</h3>
+    </div>
+    @foreach (var hot in Model)
+    {
+        <div class="ps-section__content">
+            <div class="ps-product--list">
+                <div class="ps-product__thumbnail"><a class="ps-product__overlay" href="@Url.Action("ChiTiet","VanilaBakery",new { id = hot.MaBanh })"></a><img src="~/images/cake/@hot.Hinhanh" alt=""></div>
+                <div class="ps-product__content">
+                    <h4 class="ps-product__title"><a href="@Url.Action("ChiTiet","VanilaBakery",new { id = hot.MaBanh })">@hot.TenBanh</a></h4>
+                    <p>@hot.Mota</p>
+                    <p class="ps-product__price">
+                        <del>@String.Format("{0:0,0}", hot.GiaChuaGiam)<sup>đ</sup></del>@String.Format("{0:0,0}", hot.Giaban)<sup>đ</sup>
+
+
+                    </p>
+
+                    @if (hot.Soluongton < 1)
+                    {<a class="ps-btn ps-btn--xs">Bánh tạm hết<i class="fa fa-angle-right"></i></a>
+                    }
+                    else
+                    {
+                      <p style="">Số lượng: @hot.Soluongton</p>
+
+                        <a class="ps-btn ps-btn--xs" href="@Url.Action("ThemGioHang","GioHang",new {@iMabanh=@hot.MaBanh,@strURL=Request.Url.ToString() })">Thêm vào giỏ<i class="fa fa-angle-right"></i></a>
+                     }
+                </div>
+            </div>
+        </div>
+    }
+</div>

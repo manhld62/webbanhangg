@@ -1,0 +1,52 @@
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\bin\Debug\Common.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\bin\Debug\Common.pdb
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\obj\Debug\Common.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\obj\Debug\Common.pdb
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\Common\bin\Debug\Common.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\Common\bin\Debug\Common.pdb
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\Common\obj\Debug\Common.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\Common\obj\Debug\Common.pdb
+D:\ASP.net\LabTrg\VanilaBakery\Common\bin\Debug\Common.dll
+D:\ASP.net\LabTrg\VanilaBakery\Common\bin\Debug\Common.pdb
+D:\ASP.net\LabTrg\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\ASP.net\LabTrg\VanilaBakery\Common\obj\Debug\Common.dll
+D:\ASP.net\LabTrg\VanilaBakery\Common\obj\Debug\Common.pdb
+D:\ASP.net\LabTrg\VanilaBakery\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\bin\Debug\Common.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\bin\Debug\Common.pdb
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\obj\Debug\Common.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\obj\Debug\Common.pdb
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\bin\Debug\Common.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\bin\Debug\Common.pdb
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\obj\Debug\Common.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\obj\Debug\Common.pdb
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\Common\bin\Debug\Common.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\Common\bin\Debug\Common.pdb
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\Common\obj\Debug\Common.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\Common\obj\Debug\Common.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\Common\bin\Debug\Common.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\Common\bin\Debug\Common.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Đồ án tốt nghiệp\BakeryWebsite\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Đồ án tốt nghiệp\BakeryWebsite\Common\obj\Debug\Common.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\Common\obj\Debug\Common.pdb
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\Common\bin\Debug\Common.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\Common\bin\Debug\Common.pdb
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\Common\obj\Debug\Common.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\Common\obj\Debug\Common.pdb
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\Common\bin\Debug\Common.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\Common\bin\Debug\Common.pdb
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\Common\obj\Debug\Common.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\Common\obj\Debug\Common.pdb

@@ -1,0 +1,111 @@
+﻿@using VanilaBakery.Models
+@model List<GioHang>
+@{
+    ViewBag.Title = "Giỏ Hàng";
+    Layout = "~/Views/Shared/_LayoutUser1.cshtml";
+}
+
+
+<script type="text/javascript">
+    function cong()
+    {
+        var t = document.getElementById("quantity").value;
+        document.getElementById("quantity").value = parseInt(t) + 1;
+    }
+    function tru()
+    {
+        var t = document.getElementById("quantity").value;
+        if(parseInt(t)>1){
+            document.getElementById("quantity").value = parseInt(t) - 1;
+        }
+    }
+    // Ẩn thông báo sau 2 giây
+    setTimeout(function () {
+        var notification = document.getElementById("mess");
+        if (notification) {
+            notification.style.display = "none";
+        }
+    }, 2000);
+
+</script>
+<div class="ps-section--cart pt-100 pb-100">
+  
+    <div class="container">
+        <div class="ps-cart-listing">
+            <p class="hidden-lg"><i>Slide right to view</i></p>
+            @if (ViewBag.Mess != null)
+            {
+                <p class="alert alert-danger" role="alert" id="mess">
+
+                    @ViewBag.Mess
+
+                </p>}
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Sản Phẩm Đã Chọn</th>
+                            <th>Đơn Giá</th>
+                            <th>Số Lượng</th>
+                            <th>Thành Tiền</th>
+                            <th>Cập nhật</th>
+                            <th></th>
+                            <th>@Html.ActionLink("Xóa Hết", "XoaTatCaGioHang")</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    <div class="ps-product--cart"><img src="~/images/cake/@item.sHinhanh" alt=""><a href="product-detail.html">@item.sTenbanh</a></div>
+                                </td>
+                                @using (Html.BeginForm("CapNhatGioHang", "GioHang", new { @iMaSp = item.iMabanh }))
+                                {
+                                    <td>@String.Format("{0:0,0}", item.dDongia)<sup>đ</sup></td>
+                                    <td>
+                                        <div class="form-group--number">
+                                            <button type="button" onclick="tru()" class="minus"><span>-</span></button>
+                                            <input id="quantity" min="1" max="100" class="form-control" type="number" name="txtSoLuong" value="@item.iSoluong">
+                                            <button style="padding-top:15px" type="button" onclick="cong()" class="plus"><span>+</span></button>
+
+                                        </div>
+                                    </td>
+                                    <td><span class="total-row">@String.Format("{0:0,0}", item.dThanhtien)<sup>đ</sup></span></td>
+                                    <td><button type="submit" class="btn btn-success">Cập nhật</button></td>
+                                    <td>
+                                        <div><a class="ps-cart-listing__remove" href="@Url.Action("XoaGioHang", "GioHang", new { @iMaSp = item.iMabanh })"></a></div>
+                                    </td>
+                                }
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="ps-cart__process">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12 ">
+                        <div class="form-group form-group--icon ps-cart__promotion">
+                            <div class="icon-wrap">
+                                <i class="fa fa-angle-right"></i>
+                                <input class="form-control" type="text" placeholder="promotion code">
+                            </div>
+                        </div>
+                        <div class="form-groupform-order">
+                            <button class="ps-cart__shopping">Tiếp Tục Mua Hàng</button>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 ">
+                        <div class="ps-cart__total">
+                            <p>Tổng Tiền: <span>@String.Format("{0:0,0}", ViewBag.Tongtien)<sup>đ</sup></span></p>
+                            <a href="@Url.Action("DatHang","GioHang")" class="ps-btn ps-btn--sm ps-btn--fullwidth">Tiến Hành Thanh Toán</a>
+                        </div>
+                    </div><div class="col-lg-8 col-md-8 col-sm-6 col-xs-12 ">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

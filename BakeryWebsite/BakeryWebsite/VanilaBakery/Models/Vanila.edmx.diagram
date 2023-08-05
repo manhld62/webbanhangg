@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ab8edecd65984ae29ca3a8e1c9228d37" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="VanilaModel.C__MigrationHistory" Width="1.5" PointX="13.5" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.ADMIN" Width="1.5" PointX="16.5" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.BANH" Width="1.5" PointX="9.875" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.BLOG" Width="1.5" PointX="14.5" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.CHITIETDONTHANG" Width="1.5" PointX="10.875" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.DONDATHANG" Width="1.5" PointX="7.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.KHACHHANG" Width="1.5" PointX="5.5" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.LIENHE" Width="1.5" PointX="12" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.LOAI" Width="1.5" PointX="6.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.SUBCRIBE" Width="1.5" PointX="14.375" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.TAG" Width="1.5" PointX="12" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="VanilaModel.ThuVienAnh" Width="1.5" PointX="7.625" PointY="8.375" IsExpanded="true" />
+        <AssociationConnector Association="VanilaModel.FK_Banh" ManuallyRouted="false" />
+        <AssociationConnector Association="VanilaModel.FK_Loai" ManuallyRouted="false" />
+        <AssociationConnector Association="VanilaModel.FK_tag" ManuallyRouted="false" />
+        <AssociationConnector Association="VanilaModel.FK_DonDatHang" ManuallyRouted="false" />
+        <AssociationConnector Association="VanilaModel.FK_Khachhang" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="VanilaModel.TEST" Width="1.5" PointX="7.25" PointY="11.375" />
+        <AssociationConnector Association="VanilaModel.FK__TEST__MAGV__498EEC8D" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

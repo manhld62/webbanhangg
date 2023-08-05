@@ -1,0 +1,46 @@
+﻿
+@using VanilaBakery.Models;
+@using PagedList.Mvc;
+@model PagedList.IPagedList<BANH>
+<div class="ps-shop">
+    @foreach (var sp in Model)
+    {
+        <div class="ps-product--list ps-product--list-large">
+            <div class="ps-product__thumbnail">
+                <a class="ps-product__overlay" href="@Url.Action("ChiTiet","VanilaBakery",new { id=sp.MaBanh})"></a><img src="~/images/cake/@sp.Hinhanh" alt="">
+                <div class="ps-badge"><span>@sp.GiamGia</span></div>
+            </div>
+            <div class="ps-product__content">
+                <h4 class="ps-product__title"><a href="@Url.Action("ChiTiet","VanilaBakery",new { id=sp.MaBanh})">@sp.TenBanh</a></h4>
+                <select class="ps-rating">
+                    <option value="1">1</option>
+                    <option value="1">2</option>
+                    <option value="1">3</option>
+                    <option value="1">4</option>
+                    <option value="5">5</option>
+                </select>
+                <p class="ps-product__price">
+                    <del>@String.Format("{0:0,0}", sp.GiaChuaGiam)<sup>đ</sup></del>@String.Format("{0:0,0}", sp.Giaban)<sup>đ</sup>
+                </p>
+                <p>@sp.Mota</p>
+                <footer class="ps-product__footer clearfix">
+                    <a class="ps-btn ps-btn--sm" href="@Url.Action("ThemGioHang","GioHang",new {@iMabanh=@sp.MaBanh,@strURL=Request.Url.ToString() })">Đặt hàng ngay<i class="fa fa-angle-right"></i></a>
+                    <ul class="ps-product__action">
+                        <li><a href="#" data-tooltip="Add to wishlist"><i class="ps-icon--heart"></i></a></li>
+                        <li><a href="#" data-tooltip="Compare"><i class="ps-icon--reload"></i></a></li>
+                    </ul>
+                </footer>
+            </div>
+        </div>
+    }
+</div>
+<div class="ps-pagination">
+    @Html.PagedListPager(Model, page => Url.Action("LstTimKiem", new { page = page, @searchString = ViewBag.search }),PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new PagedListRenderOptions() {
+    DisplayLinkToPreviousPage = PagedListDisplayMode.Always,
+}, new AjaxOptions()
+{
+    UpdateTargetId = "searchBanh",
+    InsertionMode = InsertionMode.Replace
+}))
+</div>
+

@@ -1,0 +1,195 @@
+﻿@model IEnumerable<VanilaBakery.Models.BANH>
+@{
+    ViewBag.Title = "Vanila Bakery";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<style>
+    #demo {
+        font-size: 24px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        border: 1px dashed;
+        border-radius: 50px;
+        background-color: #ee7560;
+        color: white
+    }
+</style>
+<div class="ps-section pt-80 pb-40">
+    <div class="container">
+        <div class="ps-countdown">
+            <div class="row">
+                @foreach (var banh in Model)
+                {
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+                        <img src="~/images/counter.png" alt="@banh.TenBanh">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+                        <header class="text-center">
+                            <div class="ps-section__top">Hot Deal Today</div>
+                            <h4><a href="@Url.Action("ChiTiet","VanilaBakery",new { id=banh.MaBanh })">@banh.TenBanh</a></h4>
+                            <p>Giá chỉ: <span> @String.Format("{0:0,0}", banh.Giaban)<sup>đ</sup> </span></p>
+                            <div id="demo"></div>
+                            <!--li <span class="days"></span><p>Days</p>-->
+                            <!--li.divider :-->
+                            @if (@banh.Soluongton < 1)
+                            {
+                                <a class="ps-btn" >Bánh tạm hết <i class="fa fa-angle-right"></i></a>
+                            }
+                            else
+                            {
+                                <p>Số lượng: @banh.Soluongton</p>
+                                <a class="ps-btn" href="@Url.Action("ThemGioHang","GioHang",new {@iMabanh=@banh.MaBanh,@strURL=Request.Url.ToString() })">Thêm vào giỏ<i class="fa fa-angle-right"></i></a>
+                            }
+                        </header>
+
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    // Thiết lập thời gian đích mà ta sẽ đếm
+    var countDownDate = new Date("April 5, 2023 15:37:25").getTime();
+
+    // cập nhập thời gian sau mỗi 1 giây
+    var x = setInterval(function () {
+
+        // Lấy thời gian hiện tại
+        var now = new Date().getTime();
+
+        // Lấy số thời gian chênh lệch
+        var distance = countDownDate - now;
+
+        // Tính toán số ngày, giờ, phút, giây từ thời gian chênh lệch
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // HIển thị chuỗi thời gian trong thẻ p
+        document.getElementById("demo").innerHTML = days + "Ngày " + hours + "Giờ "
+            + minutes + "Phút " + seconds + "Giây ";
+
+        // Nếu thời gian kết thúc, hiển thị chuỗi thông báo
+        if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("demo").innerHTML = "Thời gian đếm ngược đã kết thúc";
+        }
+    }, 1000);
+</script>
+<section class="ps-section ps-section--best-seller pt-40 pb-100">
+    @Html.Action("Sales", "VanilaBakery")
+</section>
+<div class="ps-section ps-section--home-testimonial pb-30 bg--parallax" data-background="../images/parallax/img-bg-1.jpg">
+    <div class="container">
+        <div class="owl-slider" data-owl-auto="true" data-owl-loop="true" data-owl-speed="10000" data-owl-gap="0" data-owl-nav="false" data-owl-dots="true" data-owl-animate-in="" data-owl-animate-out="" data-owl-item="1" data-owl-item-xs="1" data-owl-item-sm="1" data-owl-item-md="1" data-owl-item-lg="1" data-owl-nav-left="&lt;i class=&quot;fa fa-angle-left&quot;&gt;&lt;/i&gt;" data-owl-nav-right="&lt;i class=&quot;fa fa-angle-right&quot;&gt;&lt;/i&gt;">
+            <div class="ps-testimonial text-center pt-80 pb-100">
+                <div class="ps-testimonial__header">
+                    <div class="ps-testimonial__thumbnail"><img src="~/images/testimonial/1.jpg" alt=""></div>
+                    <select class="ps-rating">
+                        <option value="1">1</option>
+                        <option value="1">2</option>
+                        <option value="1">3</option>
+                        <option value="1">4</option>
+                        <option value="5">5</option>
+                    </select>
+                    <p>Logan May - CEO & Founder Invision</p>
+                </div>
+                <div class="ps-testimonial__content">
+                    <p>Dessert pudding dessert jelly beans cupcake sweet caramels gingerbread. Fruitcake biscuit cheesecake. Cookie topping sweet muffin pudding tart bear claw sugar plum croissant.</p>
+                </div>
+            </div>
+            <div class="ps-testimonial text-center pt-80 pb-100">
+                <div class="ps-testimonial__header">
+                    <div class="ps-testimonial__thumbnail"><img src="~/images/testimonial/2.jpg" alt=""></div>
+                    <select class="ps-rating">
+                        <option value="1">1</option>
+                        <option value="1">2</option>
+                        <option value="1">3</option>
+                        <option value="1">4</option>
+                        <option value="5">5</option>
+                    </select>
+                    <p>Logan May - CEO & Founder Invision</p>
+                </div>
+                <div class="ps-testimonial__content">
+                    <p>Dessert pudding dessert jelly beans cupcake sweet caramels gingerbread. Fruitcake biscuit cheesecake. Cookie topping sweet muffin pudding tart bear claw sugar plum croissant.</p>
+                </div>
+            </div>
+            <div class="ps-testimonial text-center pt-80 pb-100">
+                <div class="ps-testimonial__header">
+                    <div class="ps-testimonial__thumbnail"><img src="~/images/testimonial/3.jpg" alt=""></div>
+                    <select class="ps-rating">
+                        <option value="1">1</option>
+                        <option value="1">2</option>
+                        <option value="1">3</option>
+                        <option value="1">4</option>
+                        <option value="5">5</option>
+                    </select>
+                    <p>Logan May - CEO & Founder Invision</p>
+                </div>
+                <div class="ps-testimonial__content">
+                    <p>Dessert pudding dessert jelly beans cupcake sweet caramels gingerbread. Fruitcake biscuit cheesecake. Cookie topping sweet muffin pudding tart bear claw sugar plum croissant.</p>
+                </div>
+            </div>
+            <div class="ps-testimonial text-center pt-80 pb-100">
+                <div class="ps-testimonial__header">
+                    <div class="ps-testimonial__thumbnail"><img src="~/images/testimonial/4.jpg" alt=""></div>
+                    <select class="ps-rating">
+                        <option value="1">1</option>
+                        <option value="1">2</option>
+                        <option value="1">3</option>
+                        <option value="1">4</option>
+                        <option value="5">5</option>
+                    </select>
+                    <p>Logan May - CEO & Founder Invision</p>
+                </div>
+                <div class="ps-testimonial__content">
+                    <p>Dessert pudding dessert jelly beans cupcake sweet caramels gingerbread. Fruitcake biscuit cheesecake. Cookie topping sweet muffin pudding tart bear claw sugar plum croissant.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="ps-section ps-section--list-product pt-40 pb-80">
+    <div class="container">
+        <div class="row">
+            @Html.Action("BanhHot", "VanilaBakery")
+
+
+            @Html.Action("NewCake", "VanilaBakery")
+        </div>
+    </div>
+</section>
+<section class="ps-section ps-section--team ps-section--pattern pt-80 pb-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+                <div class="ps-section__header">
+                    <h3 class="ps-section__title ps-section__title--left">OUR BAKER</h3>
+                    <p>Tất cả chúng ta đều có những khoảnh khắc trong cuộc sống khi chúng ta cảm thấy như mọi thứ cần phải chính xác.</p>
+                    <p>Hãy thử tráng miệng với Donut, Tiramasu, macaroon ở chỗ chúng tôi, có thể bạn sẽ ngạc nhiên vì mùi thơm của nó, khiến bạn không ngừng nghĩ về chúng. Hãy mua ngay để cảm nhận sự khác biệt.</p>
+                    <ul class="ps-list ps-list--dot">
+                        <li>Bánh kem</li>
+                        <li>Bánh donut</li>
+                        <li>Bánh macaroon</li>
+                    </ul><span class="ps-btn ps-section__morelink" href="#">Thử ngay</span>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section class="ps-section ps-section--news pt-100 pb-100">
+    @Html.Action("Blog", "VanilaBakery")
+</section>
+<div class="ps-section ps-section--partner">
+    <div class="container">
+        <div class="owl-slider" data-owl-auto="true" data-owl-loop="true" data-owl-speed="10000" data-owl-gap="40" data-owl-nav="false" data-owl-dots="false" data-owl-animate-in="" data-owl-animate-out="" data-owl-item="6" data-owl-item-xs="3" data-owl-item-sm="4" data-owl-item-md="5" data-owl-item-lg="6" data-owl-nav-left="&lt;i class=&quot;fa fa-angle-left&quot;&gt;&lt;/i&gt;" data-owl-nav-right="&lt;i class=&quot;fa fa-angle-right&quot;&gt;&lt;/i&gt;">
+            <a href="#"><img src="~/images/partner/1.png" alt=""></a><a href="#"><img src="~/images/partner/2.png" alt=""></a><a href="#"><img src="~/images/partner/3.png" alt=""></a><a href="#"><img src="~/images/partner/4.png" alt=""></a><a href="#"><img src="~/images/partner/5.png" alt=""></a><a href="#"><img src="~/images/partner/6.png" alt=""></a><a href="#"><img src="~/images/partner/7.png" alt=""></a><a href="#"><img src="~/images/partner/8.png" alt=""></a>
+        </div>
+    </div>
+</div>
+
+

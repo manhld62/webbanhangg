@@ -1,0 +1,35 @@
+﻿@using VanilaBakery.Models;
+@using PagedList.Mvc;
+@model PagedList.IPagedList<BLOG>
+<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 ">
+    <div class="pt-80 pb-80">
+        @foreach (var danhsachb in Model)
+        {
+            <div class="container ps-blog-listing">
+                <div class="ps-post">
+                    <div class="ps-post__thumbnail"><a class="ps-post__overlay" href="blog-detail.html"></a><img src="~/images/blog/@danhsachb.HinhAnh2" alt=""></div>
+                    <div class="ps-post__header">
+                        <a class="ps-post__title" href="blog-detail.html">@danhsachb.TieuDe</a>
+                        <div class="ps-post__meta"><span><i class="fa fa-calendar-check-o"></i>@String.Format("{0:dddd, MMMM d, yyyy}", danhsachb.NgayDangTin)</span><span><i class="fa fa-comment-o"></i>@danhsachb.SoLuotXem</span></div>
+                    </div>
+                    <div class="ps-post__content">
+                        <p>@danhsachb.TomTat</p>
+                    </div>
+                    <footer class="ps-post__footer">
+                        <a class="ps-btn ps-btn--sm ps-post__morelink" href="@Url.Action("ChiTietBlog", "VanilaBakery", new { id = danhsachb.MaBlog })">Đọc thêm</a>
+                        <div class="ps-post__action"><a class="like" href="#">Like<i class="fa fa-heart"></i><span><i>2</i></span></a><a class="facebook" href="#"><i class="fa fa-facebook"></i>Share</a><a class="twitter" href="#"><i class="fa fa-twitter"></i>Tweet</a></div>
+                    </footer>
+                </div>
+            </div>
+        }
+            <div class="ps-pagination">
+                @Html.PagedListPager(Model, page => Url.Action("TimKiemBlog", new { page = page, @searchString = ViewBag.search }),PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new PagedListRenderOptions() {
+                DisplayLinkToPreviousPage = PagedListDisplayMode.Always,
+            }, new AjaxOptions()
+            {
+                UpdateTargetId = "searchBlog",
+                InsertionMode = InsertionMode.Replace
+            }))
+            </div>
+    </div>
+</div>

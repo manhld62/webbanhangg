@@ -1,0 +1,123 @@
+﻿@using VanilaBakery.Models
+@model List<GioHang>
+@{
+    ViewBag.Title = "Đặt Hàng";
+    Layout = "~/Views/Shared/_LayoutUser1.cshtml";
+}
+
+<div class="ps-section--checkout pt-80 pb-80">
+    <form class="ps-checkout" method="post">
+        @if (ViewBag.Messvnpay !=null)
+        {
+            <p>@ViewBag.Messvnpay</p>
+        }
+        @using (Html.BeginForm())
+        {
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 ">
+                        <div class="ps-checkout__billing">
+                            <h3>THÔNG TIN ĐẶT HÀNG</h3>
+                            @{
+                                KHACHHANG kh = (KHACHHANG)Session["Taikhoan"];
+                            }
+
+                            @Html.ValidationSummary(true)
+                            <div class="form-group">
+                                <label>
+                                    Họ Tên Khách Hàng<span>*</span>
+                                </label>
+                                <input class="form-control" type="text" value="@kh.HoTen">
+                            </div>
+
+                            <div class="form-group">
+                                <label>
+                                    Địa Chỉ<span>*</span>
+                                </label>
+                                <input class="form-control" type="text" value="@kh.DiachiKH">
+                            </div>
+                            <div class="form-group">
+                                <label>
+                                    Email<span>*</span>
+                                </label>
+                                <input class="form-control" type="email" value="@kh.Email">
+                            </div>
+                            <div class="form-group">
+                                <label>
+                                    Điện Thoại<span>*</span>
+                                </label>
+                                <input class="form-control" type="text" value="@kh.DienthoaiKH">
+                            </div>
+                            <div class="form-group">
+                                <label>
+                                    Ngày Đặt
+                                </label>
+                                <input class="form-control" type="text" value="@DateTime.Now.ToShortDateString()">
+                            </div>
+                            <div class="form-group">
+                                <label>
+                                    Ngày Giao Hàng
+                                </label>
+                                <input class="form-control" type="date" name="Ngaygiao">
+                            </div>
+                            <h3> Thông Tin Thêm</h3>
+                            <div class="form-group">
+                                <label>Ghi Chú Đơn Hàng</label>
+                                <textarea name="Ghichu" class="form-control" rows="5" placeholder="Viết ghi chú tại đây."></textarea>
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="ps-btn ps-btn--sm">Đặt Hàng</button>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+                        <div class="ps-checkout__order">
+                            <h3>THÔNG TIN GIỎ HÀNG</h3>
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th class="text-uppercase">Sản Phẩm</th>
+                                        <th class="text-uppercase">Thành Tiền</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>@item.sTenbanh x @item.iSoluong</td>
+                                            <td>@String.Format("{0:0,0}", item.dThanhtien)<sup>đ</sup></td>
+                                        </tr>
+                                    }
+                                    <tr>
+                                        <td style="color:red">Tổng Tiền</td>
+                                        <td>@String.Format("{0:0,0}", ViewBag.Tongtien)<sup>đ</sup></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h3>Thanh toán</h3>
+                            <div class="form-group">
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="payment" checked value="0">Thanh toán khi nhận hàng
+                                    </label>
+                                </div>
+                                @*<p>Please send your cheque to Store Name, Store Street, Store Town, Store State / County, Store Postcode.</p>*@
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="payment" value="1">VNPAY
+                                    </label>
+                                    <div class="card-list"></div>
+                                </div>
+                            </div>
+                            @*<button class="ps-btn ps-btn--sm">Place Order</button>*@
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            }
+        </form>
+</div>
+

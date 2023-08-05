@@ -1,0 +1,28 @@
+﻿@model IEnumerable<VanilaBakery.Models.BLOG>
+<div class="container">
+    <div class="ps-section__header text-center">
+        <h4 class="ps-section__top">Our Story</h4>
+        <h3 class="ps-section__title ps-section__title--full">BLOG & NEWS</h3>
+    </div>
+    <div class="ps-section__content">
+        <div class="row">    
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+        @foreach (var bl in Model)
+        {
+                <div class="ps-new ps-new--large">
+                    <img src="~/images/new/new-large.jpg" alt="">
+                    <div class="ps-new__container">
+                        <header class="ps-new__header">
+                            <p>by<a href="#"> @bl.TacGia</a> / @String.Format("{0:dddd, MMMM d, yyyy}",bl.NgayDangTin)</p><a style="font-family:Arial, Helvetica, sans-serif" class="ps-new__title" href="@Url.Action("ChiTietBlog","VanilaBakery",new { id=bl.MaBlog})">@bl.TieuDe </a>
+                        </header>
+                        <div class="ps-new__content">
+                            <p data-number-line="2">@bl.TomTat</p><a class="ps-btn ps-btn--sm" href="@Url.Action("ChiTietBlog","VanilaBakery",new { id=bl.MaBlog})">Đọc thêm</a>
+                        </div>
+                    </div>
+                </div>
+        }
+          </div>
+           @Html.Action("Blog2","VanilaBakery")
+        </div>
+    </div>
+</div>

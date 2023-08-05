@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Đăng nhập</title>
+    <link href="~/Content/login.css" rel="stylesheet" />
+    <link href="~/Content/favicon.png" rel="icon">
+    <link href="~/Content/stylee.css" rel="stylesheet" />
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+<body>
+    <div class="loginBox">
+        <img src="~/imglogin/logo-1.png" class="user">
+        <h3 style="text-align:center;color:red">@ViewBag.Thongbao</h3>
+        <h1> Đăng Nhập</h1>
+        <form method="post">
+            @using (Html.BeginForm("DangNhap","Nguoidung"))
+            {
+                @Html.ValidationSummary(true)
+            <p>Đăng Nhập</p>
+            <input type="text" name="Tendangnhap" placeholder="Tên dăng nhập">@ViewData["Loi1"]
+            <p>Mật Khẩu</p>
+            <input type="password" name="Matkhau" placeholder="Nhập mật khẩu">@ViewData["Loi2"]
+            <input type="submit" name="" value="Đăng nhập">
+            <p class="login__signup">Bạn chưa có tài khoản? &nbsp;<a href="@Url.Action("DangKy","Nguoidung")">Đăng ký</a></p>
+            }
+
+            <a class="loginBtn loginBtn--facebook" href="/Nguoidung/LoginFacebook">
+                Login with Facebook
+                
+            </a>
+        </form>
+    </div>
+</body>
+</html>
+

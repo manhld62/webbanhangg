@@ -1,0 +1,73 @@
+﻿@model IEnumerable<VanilaBakery.Models.ADMIN>
+@{
+    Random rd = new Random();
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@Html.Partial("Them")
+<table id="myTable" class="display">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.UserName)</th>
+            <th>@Html.DisplayNameFor(model => model.Password)</th>
+            <th>@Html.DisplayNameFor(model => model.FullName)</th>
+            <th>@Html.DisplayNameFor(model => model.Email)</th>
+            <th>@Html.DisplayNameFor(model => model.Avatar)</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.UserName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Password)</td>
+                <td>@Html.DisplayFor(modelItem => item.FullName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                <td><img src="~/Content/Admin/images/@item.Avatar" width="50px" height="50px" /></td>
+                <td>
+                    <div>
+                        <div>
+                            <a class="btn btn-primary" style="float:left; margin-right:10px" href="@Url.Action("Sua","Admin", new { id = item.UserAdmin})">Sửa</a>
+                        </div>
+                        <div>
+                            <a class="btn btn-primary" style=" float:left" href="@Url.Action("Xoa","Admin", new { id = item.UserAdmin}) ">Xóa</a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    }
+</table>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#table_id').DataTable();
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $('#myTable').DataTable({
+            "language": {
+                "sProcessing": "Đang xử lý...",
+                "sLengthMenu": "Xem _MENU_ User",
+                "sZeroRecords": "Không tìm thấy User nào phù hợp",
+                "sInfo": "Đang xem _START_ đến _END_ trong tổng số _TOTAL_ ",
+                "sInfoEmpty": "Đang xem 0 đến 0 trong tổng số 0 User",
+                "sInfoFiltered": "(được lọc từ _MAX_ User)",
+                "sInfoPostFix": "",
+                "sSearch": "Tìm User:",
+                "sUrl": "",
+                "oPaginate": {
+                    "sFirst": "Đầu",
+                    "sPrevious": "Trước",
+                    "sNext": "Tiếp",
+                    "sLast": "Cuối"
+                }
+
+            }
+        });
+    });
+</script>

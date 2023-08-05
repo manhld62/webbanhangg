@@ -1,0 +1,1736 @@
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Owin.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Web Asp.net\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csprojResolveAssemblyReference.cache
+E:\Web Asp.net\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+E:\Web Asp.net\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Owin.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+E:\Web Asp.net\Save 9thang3\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Owin.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csprojResolveAssemblyReference.cache
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\PagedList.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\PagedList.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.xml
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Facebook.dll
+E:\Web Asp.net\Save 14thang3\VanilaBakery\VanilaBakery\bin\Facebook.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Facebook.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Owin.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\PagedList.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Facebook.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\PagedList.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+D:\ASP.net\Doan\Test1\Vanila Bakery\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csprojResolveAssemblyReference.cache
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Facebook.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Owin.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\PagedList.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Facebook.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\PagedList.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csprojResolveAssemblyReference.cache
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Common.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\Common.pdb
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\BotDetect.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.xml
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\CaptchaMvc.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\CaptchaMvc.pdb
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\VanilaBakery\bin\CaptchaMvc.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\BotDetect.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\CaptchaMvc.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Common.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Facebook.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Owin.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\PagedList.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Common.pdb
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\CaptchaMvc.pdb
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\CaptchaMvc.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Facebook.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\PagedList.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll.config
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\BotDetect.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\CaptchaMvc.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Common.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Facebook.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Owin.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\PagedList.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Common.pdb
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\CaptchaMvc.pdb
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\CaptchaMvc.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Facebook.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\PagedList.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll.config
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csprojAssemblyReference.cache
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+D:\ASP.net\LabTrg\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\BotDetect.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\CaptchaMvc.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Common.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Facebook.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Owin.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\PagedList.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Common.pdb
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\CaptchaMvc.pdb
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\CaptchaMvc.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Facebook.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\PagedList.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll.config
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+D:\ASP.net\LabTrg\cac\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csprojAssemblyReference.cache
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\BotDetect.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\CaptchaMvc.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Common.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Facebook.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Owin.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\PagedList.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Common.pdb
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\CaptchaMvc.pdb
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\CaptchaMvc.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Facebook.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\PagedList.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll.config
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csprojAssemblyReference.cache
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\BotDetect.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\CaptchaMvc.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Common.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Facebook.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Owin.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\PagedList.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Common.pdb
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\CaptchaMvc.pdb
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\CaptchaMvc.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Facebook.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\PagedList.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll.config
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+C:\Users\ADMIN\Music\Downloads\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\ApplicationInsights.config
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\csc.exe
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\vbc.exe
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll.config
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\VanilaBakery.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\VanilaBakery.pdb
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\BotDetect.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\CaptchaMvc.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Common.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\EntityFramework.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Facebook.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Owin.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\PagedList.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.Razor.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\WebGrease.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Common.pdb
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\CaptchaMvc.pdb
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\CaptchaMvc.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Facebook.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AI.Web.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\PagedList.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\PagedList.Mvc.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Data.SQLite.dll.config
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.Helpers.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.Mvc.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.Optimization.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.Razor.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Antlr3.Runtime.pdb
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Newtonsoft.Json.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\EntityFramework.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\EntityFramework.SqlServer.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.AssemblyReference.cache
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.dll
+C:\Đồ án tốt nghiệp\VanilaBakery\VanilaBakery\obj\Debug\VanilaBakery.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\ApplicationInsights.config
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\csc.exe
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\vbc.exe
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll.config
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\VanilaBakery.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\BotDetect.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Common.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\EntityFramework.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Facebook.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Owin.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\PagedList.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\WebGrease.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Common.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Facebook.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\PagedList.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll.config
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\EntityFramework.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.AssemblyReference.cache
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.pdb
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\ApplicationInsights.config
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\csc.exe
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\vbc.exe
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll.config
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\VanilaBakery.pdb
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\BotDetect.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Common.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\EntityFramework.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Facebook.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Owin.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\PagedList.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\WebGrease.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Common.pdb
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.pdb
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Facebook.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\PagedList.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll.config
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.pdb
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\EntityFramework.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.AssemblyReference.cache
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.dll
+C:\Users\lovan\OneDrive\Desktop\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.pdb
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\ApplicationInsights.config
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\csc.exe
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\vbc.exe
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll.config
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.pdb
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\BotDetect.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Common.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Facebook.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Owin.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\WebGrease.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Common.pdb
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.pdb
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Facebook.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll.config
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.pdb
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.AssemblyReference.cache
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.dll
+C:\Users\REACTPLUS\Desktop\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.pdb
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\ApplicationInsights.config
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\csc.exe
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\vbc.exe
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll.config
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.pdb
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\BotDetect.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Common.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Facebook.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Owin.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\WebGrease.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Common.pdb
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.pdb
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Facebook.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll.config
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.pdb
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.AssemblyReference.cache
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.dll
+D:\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.pdb
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\ApplicationInsights.config
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\csc.exe
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll.config
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.pdb
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\BotDetect.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Common.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Facebook.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Owin.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\WebGrease.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Common.pdb
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.pdb
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Facebook.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll.config
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.dll
+C:\Users\ADMIN\Music\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.pdb
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\ApplicationInsights.config
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\csc.exe
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll.config
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.pdb
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\BotDetect.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Common.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Facebook.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Owin.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Common.pdb
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.pdb
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Facebook.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll.config
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.dll
+C:\Users\ADMIN\Desktop\Bảo Vệ Đồ An\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\ApplicationInsights.config
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\csc.exe
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\System.Collections.Immutable.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\vbc.exe
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\roslyn\VBCSCompiler.exe.config
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll.config
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\VanilaBakery.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\BotDetect.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\BotDetect.Web.Mvc.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Common.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Facebook.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Web.Infrastructure.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Owin.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\WebGrease.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Common.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\CaptchaMvc.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Facebook.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.Web.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AI.WindowsServer.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.ApplicationInsights.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\PagedList.Mvc.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Data.SQLite.dll.config
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Helpers.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Mvc.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Optimization.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.Razor.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Deployment.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\System.Web.WebPages.Razor.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Antlr3.Runtime.pdb
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Newtonsoft.Json.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\EntityFramework.SqlServer.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Google.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.AssemblyReference.cache
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CoreCompileInputs.cache
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.csproj.CopyComplete
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.dll
+C:\Đồ án tốt nghiệp\BakeryWebsite\BakeryWebsite\VanilaBakery\obj\Debug\VanilaBakery.pdb

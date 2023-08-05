@@ -1,0 +1,77 @@
+﻿@model IEnumerable<VanilaBakery.Models.DONDATHANG>
+@{
+    ViewBag.Title = "QL Đơn Hàng";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style="text-align:center;color:red;">Quản Lý Đơn Hàng</h2>
+@if (Session["admin"] != null)
+{
+    <div>@Html.Partial("Them2")</div>
+
+}
+<table id="table_id" class="display">
+    <thead>
+        <tr>
+            <th>Mã Đơn Hàng</th>
+            <th>Tình TrạngThanh Toán</th>
+            <th>Tình Trạng Giao Hàng</th>
+            <th>Ngày Đặt</th>
+            <th> Ngày Giao </th>
+            <th>Ghi CHú</th>
+            <th>Tên Khách Hàng </th>
+            <th>Số Điện Thoại </th>
+         
+
+
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.MaDonHang)</td>
+                <td>
+                @if (item.Dathanhtoan == true) {
+                        <p>Đã thanh toán </p>
+                }
+                else
+                {
+                <p>Chưa thanh toán </p>
+                }
+
+
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.Tinhtranggiaohang)</td>
+                <td>@Html.DisplayFor(modelItem => item.Ngaydat)</td>
+                <td>@Html.DisplayFor(modelItem => item.Ngaygiao)</td>
+                <td>@Html.DisplayFor(modelItem => item.Ghichu)</td>
+                <td>@Html.DisplayFor(modelItem => item.KHACHHANG.HoTen)</td>
+                <td>@Html.DisplayFor(modelItem => item.KHACHHANG.DienthoaiKH)</td>
+                @if (Session["admin"] != null)
+                {
+                    <td>
+                        <div>
+                            <div>
+                                <a class="btn btn-primary" style="float:left; margin-right:10px" href="@Url.Action("Sua3","Admin", new { id = item.MaDonHang})">Sửa</a>
+                            </div>
+                            <div>
+                                <a class="btn btn-primary" style=" float:left; margin-top:10px" href="@Url.Action("Xoa3","Admin", new { id = item.MaDonHang}) ">Xóa</a>
+                            </div>
+                        </div>
+                    </td>
+
+                }
+            </tr>
+        </tbody>
+    }
+
+
+</table>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#table_id').DataTable();
+    });
+</script>

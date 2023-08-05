@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VanilaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="C__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+      <PropertyRef Name="ContextKey" />
+    </Key>
+    <Property Name="MigrationId" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ContextKey" Type="String" MaxLength="300" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Model" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="ProductVersion" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ADMIN">
+    <Key>
+      <PropertyRef Name="UserAdmin" />
+    </Key>
+    <Property Name="UserAdmin" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="64" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="256" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FullName" Type="String" MaxLength="64" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="256" FixedLength="false" Unicode="false" />
+    <Property Name="Avatar" Type="String" MaxLength="256" FixedLength="false" Unicode="false" />
+    <Property Name="IsAdmin" Type="Byte" />
+    <Property Name="Allowed" Type="Byte" />
+  </EntityType>
+  <EntityType Name="BANH">
+    <Key>
+      <PropertyRef Name="MaBanh" />
+    </Key>
+    <Property Name="MaBanh" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenBanh" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GiaChuaGiam" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Giaban" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Mota" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Hinhanh" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Ngaycapnhat" Type="DateTime" Precision="3" />
+    <Property Name="Soluongton" Type="Int32" />
+    <Property Name="MaLoai" Type="Int32" />
+    <Property Name="GiamGia" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="CHITIETDONTHANGs" Relationship="Self.FK_Banh" FromRole="BANH" ToRole="CHITIETDONTHANG" />
+    <NavigationProperty Name="LOAI" Relationship="Self.FK_Loai" FromRole="BANH" ToRole="LOAI" />
+  </EntityType>
+  <EntityType Name="BLOG">
+    <Key>
+      <PropertyRef Name="MaBlog" />
+    </Key>
+    <Property Name="MaBlog" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HinhAnh1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="HinhAnh2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SoLuotXem" Type="Int32" />
+    <Property Name="NgayDangTin" Type="DateTime" Precision="3" />
+    <Property Name="TieuDe" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="TomTat" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="NoiDung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MaTag" Type="Int32" />
+    <Property Name="TacGia" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="TAG" Relationship="Self.FK_tag" FromRole="BLOG" ToRole="TAG" />
+  </EntityType>
+  <EntityType Name="CHITIETDONTHANG">
+    <Key>
+      <PropertyRef Name="MaDonHang" />
+      <PropertyRef Name="MaBanh" />
+    </Key>
+    <Property Name="MaDonHang" Type="Int32" Nullable="false" />
+    <Property Name="MaBanh" Type="Int32" Nullable="false" />
+    <Property Name="Soluong" Type="Int32" />
+    <Property Name="Dongia" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="BANH" Relationship="Self.FK_Banh" FromRole="CHITIETDONTHANG" ToRole="BANH" />
+    <NavigationProperty Name="DONDATHANG" Relationship="Self.FK_DonDatHang" FromRole="CHITIETDONTHANG" ToRole="DONDATHANG" />
+  </EntityType>
+  <EntityType Name="DONDATHANG">
+    <Key>
+      <PropertyRef Name="MaDonHang" />
+    </Key>
+    <Property Name="MaDonHang" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Dathanhtoan" Type="Boolean" />
+    <Property Name="Tinhtranggiaohang" Type="Boolean" />
+    <Property Name="Ngaydat" Type="DateTime" Precision="3" />
+    <Property Name="Ngaygiao" Type="DateTime" Precision="3" />
+    <Property Name="Ghichu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MaKH" Type="Int32" />
+    <NavigationProperty Name="CHITIETDONTHANGs" Relationship="Self.FK_DonDatHang" FromRole="DONDATHANG" ToRole="CHITIETDONTHANG" />
+    <NavigationProperty Name="KHACHHANG" Relationship="Self.FK_Khachhang" FromRole="DONDATHANG" ToRole="KHACHHANG" />
+  </EntityType>
+  <EntityType Name="KHACHHANG">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Taikhoan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Matkhau" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="DiachiKH" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="DienthoaiKH" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Ngaysinh" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="DONDATHANGs" Relationship="Self.FK_Khachhang" FromRole="KHACHHANG" ToRole="DONDATHANG" />
+  </EntityType>
+  <EntityType Name="LIENHE">
+    <Key>
+      <PropertyRef Name="MaLH" />
+    </Key>
+    <Property Name="MaLH" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="DienthoaiKH" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NoiDung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="LOAI">
+    <Key>
+      <PropertyRef Name="MaLoai" />
+    </Key>
+    <Property Name="MaLoai" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LoaiBanh" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BANHs" Relationship="Self.FK_Loai" FromRole="LOAI" ToRole="BANH" />
+  </EntityType>
+  <EntityType Name="SUBCRIBE">
+    <Key>
+      <PropertyRef Name="MaSub" />
+    </Key>
+    <Property Name="MaSub" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="TAG">
+    <Key>
+      <PropertyRef Name="MaTag" />
+    </Key>
+    <Property Name="MaTag" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenTag" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BLOGs" Relationship="Self.FK_tag" FromRole="TAG" ToRole="BLOG" />
+  </EntityType>
+  <EntityType Name="ThuVienAnh">
+    <Key>
+      <PropertyRef Name="MaHinh" />
+    </Key>
+    <Property Name="MaHinh" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenAnh" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="UrlHinh" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_Banh">
+    <End Role="BANH" Type="Self.BANH" Multiplicity="1" />
+    <End Role="CHITIETDONTHANG" Type="Self.CHITIETDONTHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BANH">
+        <PropertyRef Name="MaBanh" />
+      </Principal>
+      <Dependent Role="CHITIETDONTHANG">
+        <PropertyRef Name="MaBanh" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Loai">
+    <End Role="LOAI" Type="Self.LOAI" Multiplicity="0..1" />
+    <End Role="BANH" Type="Self.BANH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAI">
+        <PropertyRef Name="MaLoai" />
+      </Principal>
+      <Dependent Role="BANH">
+        <PropertyRef Name="MaLoai" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tag">
+    <End Role="TAG" Type="Self.TAG" Multiplicity="0..1" />
+    <End Role="BLOG" Type="Self.BLOG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TAG">
+        <PropertyRef Name="MaTag" />
+      </Principal>
+      <Dependent Role="BLOG">
+        <PropertyRef Name="MaTag" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DonDatHang">
+    <End Role="DONDATHANG" Type="Self.DONDATHANG" Multiplicity="1" />
+    <End Role="CHITIETDONTHANG" Type="Self.CHITIETDONTHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DONDATHANG">
+        <PropertyRef Name="MaDonHang" />
+      </Principal>
+      <Dependent Role="CHITIETDONTHANG">
+        <PropertyRef Name="MaDonHang" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Khachhang">
+    <End Role="KHACHHANG" Type="Self.KHACHHANG" Multiplicity="0..1" />
+    <End Role="DONDATHANG" Type="Self.DONDATHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACHHANG">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="DONDATHANG">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="VanilaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__MigrationHistory" EntityType="Self.C__MigrationHistory" />
+    <EntitySet Name="ADMINs" EntityType="Self.ADMIN" />
+    <EntitySet Name="BANHs" EntityType="Self.BANH" />
+    <EntitySet Name="BLOGs" EntityType="Self.BLOG" />
+    <EntitySet Name="CHITIETDONTHANGs" EntityType="Self.CHITIETDONTHANG" />
+    <EntitySet Name="DONDATHANGs" EntityType="Self.DONDATHANG" />
+    <EntitySet Name="KHACHHANGs" EntityType="Self.KHACHHANG" />
+    <EntitySet Name="LIENHEs" EntityType="Self.LIENHE" />
+    <EntitySet Name="LOAIs" EntityType="Self.LOAI" />
+    <EntitySet Name="SUBCRIBEs" EntityType="Self.SUBCRIBE" />
+    <EntitySet Name="TAGs" EntityType="Self.TAG" />
+    <EntitySet Name="ThuVienAnhs" EntityType="Self.ThuVienAnh" />
+    <AssociationSet Name="FK_Banh" Association="Self.FK_Banh">
+      <End Role="BANH" EntitySet="BANHs" />
+      <End Role="CHITIETDONTHANG" EntitySet="CHITIETDONTHANGs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Loai" Association="Self.FK_Loai">
+      <End Role="LOAI" EntitySet="LOAIs" />
+      <End Role="BANH" EntitySet="BANHs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tag" Association="Self.FK_tag">
+      <End Role="TAG" EntitySet="TAGs" />
+      <End Role="BLOG" EntitySet="BLOGs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DonDatHang" Association="Self.FK_DonDatHang">
+      <End Role="DONDATHANG" EntitySet="DONDATHANGs" />
+      <End Role="CHITIETDONTHANG" EntitySet="CHITIETDONTHANGs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Khachhang" Association="Self.FK_Khachhang">
+      <End Role="KHACHHANG" EntitySet="KHACHHANGs" />
+      <End Role="DONDATHANG" EntitySet="DONDATHANGs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

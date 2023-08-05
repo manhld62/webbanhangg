@@ -1,0 +1,170 @@
+﻿@{
+    ViewBag.Title = "Chi Tiết Sản Phẩm";
+    Layout = "~/Views/Shared/_LayoutUser1.cshtml";
+}
+
+<script type="text/javascript">
+    function cong()
+    {
+        var t = document.getElementById("quantity").value;
+        document.getElementById("quantity").value = parseInt(t) + 1;
+    }
+    function tru()
+    {
+        var t = document.getElementById("quantity").value;
+        if(parseInt(t)>1){
+            document.getElementById("quantity").value = parseInt(t) - 1;
+        }
+    }
+</script>
+<div class="ps-section pt-80 pb-80">
+    <div class="container">
+        <div class="ps-product--detail">
+            <div class="row">
+                <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ">
+                    <div class="ps-product__thumbnail">
+                        <div class="ps-badge"><span>@Model.GiamGia</span></div>
+                        <div class="owl-slider primary" data-owl-auto="true" data-owl-loop="false" data-owl-speed="10000" data-owl-gap="0" data-owl-nav="false" data-owl-dots="false" data-owl-animate-in="" data-owl-animate-out="" data-owl-item="1" data-owl-item-xs="1" data-owl-item-sm="1" data-owl-item-md="1" data-owl-item-lg="1" data-owl-nav-left="&lt;i class=&quot;fa fa-angle-left&quot;&gt;&lt;/i&gt;" data-owl-nav-right="&lt;i class=&quot;fa fa-angle-right&quot;&gt;&lt;/i&gt;">
+                            <div class="ps-product__image"><a href="~/images/cake/@Model.Hinhanh"><img src="~/images/cake/@Model.Hinhanh" alt=""></a></div>
+                        </div>
+                      
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 ">
+                    <header>
+                        <h3 class="ps-product__name">@Model.TenBanh</h3>
+                        <select class="ps-rating">
+                            <option value="1">1</option>
+                            <option value="1">2</option>
+                            <option value="1">3</option>
+                            <option value="1">4</option>
+                            <option value="5">5</option>
+                        </select>
+                        <p class="ps-product__price">@String.Format("{0:0,0}",@Model.Giaban)<sup>đ</sup> <del>@String.Format("{0:0,0}", @Model.GiaChuaGiam)<sup>đ</sup></del></p>
+                        <div class="ps-product__description">
+                            <p>@Model.Mota</p>
+                        </div>
+                        <div class="ps-product__meta">
+                            <p><span> Số lượng còn lại: </span> @Model.Soluongton</p>
+                            <p class="category"><span>Loại:</span><a href="product-grid.html">Cupcake</a></p>
+                        </div>  
+                        <div class="ps-product__shop">
+                            <div class="form-group--number">
+                                <button class="minus" data-type="minus" onclick="tru()" type="button"><span>-</span></button>
+                                <input id="quantity" min="1" max="100" class="form-control" type="text" value="1" name="quantity">
+                                <button type="button" data-type="plus" class="plus" onclick="cong()" data-field=""><span>+</span></button>
+                            </div>
+                            <ul class="ps-product__action">
+                                <li><a href="#" data-tooltip="Add to wishlist"><i class="ps-icon--heart"></i></a></li>
+                                <li><a href="#" data-tooltip="Compare"><i class="ps-icon--reload"></i></a></li>
+                            </ul>
+                        </div>
+                    </header>
+                    <footer>
+                        <div class="row">
+                            <div class="col-lg-6 col-md-5 col-sm-6 col-xs-12 ">
+                                @if (@Model.Soluongton < 1)
+                                {
+                                    <a class="ps-btn--fullwidth ps-btn">Bánh tạm hết</a>
+                                }
+                                else
+                                {
+                                    <p style="">Số lượng: @Model.Soluongton</p>
+                                    <a class="ps-btn--fullwidth ps-btn" href="@Url.Action("ThemGioHang","GioHang",new {@iMabanh=@Model.MaBanh,@strURL=Request.Url.ToString() })">Thêm vào giỏ<i class="fa fa-angle-right"></i></a>
+                                }
+
+                            </div>
+                            <div class="col-lg-6 col-md-7 col-sm-6 col-xs-12 ">
+                                <p class="ps-product__sharing">Chia sẻ:<a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-google-plus"></i></a><a href="#"><i class="fa fa-twitter"></i></a></p>
+                            </div>
+                        </div>
+                    </footer>
+                </div>
+            </div>
+            <div class="ps-product__info">
+                <ul class="tab-list" role="tablist">
+                    <li class="active"><a href="#tab_01" aria-controls="tab_01" role="tab" data-toggle="tab">Overview</a></li>
+                    <li><a href="#tab_02" aria-controls="tab_02" role="tab" data-toggle="tab">Review</a></li>
+                    <li><a href="#tab_03" aria-controls="tab_03" role="tab" data-toggle="tab">PRODUCT TAG</a></li>
+                    <li><a href="#tab_04" aria-controls="tab_04" role="tab" data-toggle="tab">ADDITIONAL</a></li>
+                </ul>
+            </div>
+            <div class="tab-content mb-60">
+                <div class="tab-pane active" role="tabpanel" id="tab_01">
+                    <p>Caramels tootsie roll carrot cake sugar plum. Sweet roll jelly bear claw liquorice. Gingerbread lollipop dragée cake. Pie topping jelly-o. Fruitcake dragée candy canes tootsie roll. Pastry jelly-o cupcake. Bonbon brownie soufflé muffin.</p>
+                    <p>Sweet roll soufflé oat cake apple pie croissant. Pie gummi bears jujubes cake lemon drops gummi bears croissant macaroon pie. Fruitcake tootsie roll chocolate cake Carrot cake cake bear claw jujubes topping cake apple pie. Jujubes gummi bears soufflé candy canes topping gummi bears cake soufflé cake. Cotton candy soufflé sugar plum pastry sweet roll..</p>
+                </div>
+                <div class="tab-pane" role="tabpanel" id="tab_02">
+                    <p>1 review for Cupcakes Red Flowers</p>
+                    <div class="ps-review-box">
+                        <div class="ps-review-box__thumbnail"><img src="~/images/blog/people.png" alt=""></div>
+                        <div class="ps-review-box__content">
+                            <header>
+                                <select class="ps-rating">
+                                    <option value="1">1</option>
+                                    <option value="1">2</option>
+                                    <option value="1">3</option>
+                                    <option value="1">4</option>
+                                    <option value="5">5</option>
+                                </select>
+                                <p>By<a href=""> Trang</a> - January 25, 2023</p>
+                            </header>
+                            <p>Bánh ngon phù hợp túi tiền. </p>
+                        </div>
+                    </div>
+                    <form class="ps-product__review" action="_action" method="post">
+                        <h4>ADD YOUR REVIEW</h4>
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ">
+                                <div class="form-group">
+                                    <label>Name:*<span>*</span></label>
+                                    <input class="form-control" type="text" placeholder="">
+                                </div>
+                                <div class="form-group">
+                                    <label>Email: *<span>*</span></label>
+                                    <input class="form-control" type="email" placeholder="">
+                                </div>
+                                <div class="form-group">
+                                    <label>Your rating<span></span></label>
+                                    <select class="ps-rating">
+                                        <option value="1">1</option>
+                                        <option value="1">2</option>
+                                        <option value="1">3</option>
+                                        <option value="1">4</option>
+                                        <option value="5">5</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12 ">
+                                <div class="form-group">
+                                    <label>Your Review:</label>
+                                    <textarea class="form-control" rows="6"></textarea>
+                                </div>
+                                <div class="form-group">
+                                    <button class="ps-btn ps-btn--sm">Submit</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="tab-pane" role="tabpanel" id="tab_03">
+                    <p>Add your tag <span> *</span></p>
+                    <form class="ps-product__tags" action="_action" method="post">
+                        <div class="form-group">
+                            <input class="form-control" type="text" placeholder="">
+                            <button class="ps-btn ps-btn--sm">Add Tag</button>
+                        </div>
+                    </form>
+                </div>
+                <div class="tab-pane" role="tabpanel" id="tab_04">
+                    <div class="form-group">
+                        <textarea class="form-control" rows="6" placeholder="Enter your addition here..."></textarea>
+                    </div>
+                    <div class="form-group">
+                        <button class="ps-btn" type="button">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,370 @@
+﻿@using VanilaBakery.Models;
+@{ 
+    KHACHHANG acc = (KHACHHANG)Session["Taikhoan"];
+    string username = "";
+    if (Request.Cookies["usr"] != null)
+    {
+        username = Request.Cookies["usr"].Value;
+
+    }
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link href="~/Content/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="~/Content/favicon.png" rel="icon">
+    <meta name="author" content="#{author}">
+    <meta name="keywords" content="#{keyword}">
+    <meta name="description" content="#{description}">
+    <!-- Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700%7CPacifico%7CVarela+Round%7CPoppins" rel="stylesheet">
+    <link rel="stylesheet" href="~/plugins/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/plugins/jquery-bar-rating/dist/themes/fontawesome-stars.css">
+    <link rel="stylesheet" href="~/plugins/ps-icon/ps-icon.css">
+    <!-- CSS Library-->
+    <link rel="stylesheet" href="~/plugins/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/plugins/owl-carousel/assets/owl.carousel.css">
+    <link rel="stylesheet" href="~/plugins/jquery-bar-rating/dist/themes/fontawesome-stars.css">
+    <link rel="stylesheet" href="~/plugins/Magnific-Popup/dist/magnific-popup.css">
+    <link rel="stylesheet" href="~/plugins/jquery-ui/jquery-ui.min.css">
+    <link rel="stylesheet" href="~/plugins/bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" href="~/plugins/slick/slick/slick.css">
+    <link rel="stylesheet" href="~/plugins/lightGallery-master/dist/css/lightgallery.min.css">
+    <link rel="stylesheet" href="~/plugins/revolution/css/settings.css">
+    <link rel="stylesheet" href="~/plugins/revolution/css/layers.css">
+    <link rel="stylesheet" href="~/plugins/revolution/css/navigation.css">
+    <!-- Custom-->
+    <link rel="stylesheet" href="~/Content/style.css">
+    <!-- Start of  Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3fe38af4-4b16-43ba-99fa-2b3768b9674a"></script>
+    <!-- End of  Zendesk Widget script -->
+</head>
+<body class="page-init">
+    @*@Html.Action("TimKiem","Nguoidung")*@
+    <div class="header--sidebar"></div>
+    <header class="header" data-responsive="1199">
+        <div class="header__top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-7 col-sm-12 col-xs-12">
+                        <p>Ngõ 448 Hà Huy Tập - Yên Viên -Hà Nội Hotline:0961293595</p>
+                    </div>
+                    <div class="col-lg-4 col-md-5 col-sm-12 col-xs-12 ">
+
+                        @if (Session["Taikhoan"] == null)
+                        {
+                            @Html.Action("HienTen", "Nguoidung")
+
+                        }
+                        else
+                        {
+                            <div>
+                                <div class="btn-group ps-dropdown">
+                                    <a href="@Url.Action("SignOut","Nguoidung")">Đăng xuất<i></i></a>
+                                    <ul class="dropdown-menu"></ul>
+                                </div>
+                                <div class="btn-group ps-dropdown">
+                                    <a href="#">Xin chào, @acc.HoTen<i></i></a>
+                                    <ul class="dropdown-menu"></ul>
+                                </div>
+
+                            </div>
+
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+        <nav class="navigation">
+            <div class="container">
+                <div class="menu-toggle"><span></span></div>
+                <div class="navigation__left">
+                    <ul class="menu menu--left">
+                        <li>
+                            <a href="@Url.Action("Index","VanilaBakery")">Trang chủ</a>
+                        </li>
+                        <li><a href="@Url.Action("GioiThieu","VanilaBakery")">Giới thiệu</a></li>
+                        <li >
+                            <a href="@Url.Action("ShowBanh","VanilaBakery")">Bánh</a>
+                           
+                        </li>
+                        <li>
+                            <a href="@Url.Action("ChiNhanh","VanilaBakery")">Chi Nhánh</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="navigation__right">
+                    <ul class="menu menu--right">
+                        <li><a href="@Url.Action("ThuVienAnh","VanilaBakery")">Thư viện ảnh</a></li>
+                        <li class="">
+                            <a href="@Url.Action("DanhSachBlog","VanilaBakery")">Tin Tức</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("LienHe","Nguoidung")">Liên hệ</a>
+                        </li>
+                    </ul>
+                    @Html.Action("GioHangCon", "GioHang")
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div id="back2top"><i class="fa fa-angle-up"></i></div>
+    <div class="loader"></div>
+    <div class="page-wrap">
+        <div class="ps-banner--home-1">
+            <div class="rev_slider_wrapper fullscreen-container" id="revolution-slider-1" data-alias="concept121" data-source="gallery" style="background-color:#000000;padding:0px;">
+                <div class="rev_slider fullscreenbanner" id="rev_slider_1059_1" style="display:none;" data-version="5.4.1">
+                    <ul class="ps-banner">
+                        <li data-index="rs-2972" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="../../assets/images/concept4-100x100.jpg" data-rotate="0" data-saveperformance="off" data-title=" b Show" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                            <img class="rev-slidebg" src="~/images/banner/img-slider-1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="5" data-no-retina>
+                            <div class="tp-caption ps-banner__caption" id="layer01" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-100','-80','-120','-120']" data-width="['none','none','none','400']" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-responsive_offset="on" data-frames="[{&quot;from&quot;:&quot;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1700,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;x:left(R);&quot;,&quot;ease&quot;:&quot;Power3.easeIn&quot;}]" style="z-index: 7; white-space: nowrap;text-transform:left;">Chúng tôi luôn thực hiện giấc mơ ngọt ngào của bạn</div>
+                            <div class="tp-caption ps-banner__description" id="layer02" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-type="text" data-responsive_offset="on" data-textAlign="['center','center','center','center']" data-frames="[{&quot;from&quot;:&quot;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1500,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;x:left(R);&quot;,&quot;ease&quot;:&quot;Power3.easeIn&quot;}]">Chúng tôi luôn cung cấp những loại bánh ngon và an toàn cho sức khỏe.</div><a class="tp-caption ps-btn ps-btn--lg" href="#" id="layer03" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['80','70','70','70']" data-type="text" data-responsive_offset="on" data-textAlign="['center','center','center','center']" data-frames="[{&quot;from&quot;:&quot;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1500,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;x:left(R);&quot;,&quot;ease&quot;:&quot;Power3.easeIn&quot;}]">THỬ BÁNH NGAY <i class="fa fa-angle-right"></i></a>
+                        </li>
+                        <li data-index="rs-2973" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="../../assets/images/concept4-100x100.jpg" data-rotate="0" data-saveperformance="off" data-title="Web Show" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                            <img class="rev-slidebg" src="~/images/banner/img-slider-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="5" data-no-retina>
+                            <div class="tp-caption ps-banner__caption" id="layer04" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-100','-80','-120','-120']" data-width="['none','none','none','400']" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-responsive_offset="on" data-frames="[{&quot;from&quot;:&quot;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1700,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;x:left(R);&quot;,&quot;ease&quot;:&quot;Power3.easeIn&quot;}]" style="z-index: 7; white-space: nowrap;text-transform:left;">Cảm nhận sự ngọt ngào trong từng miếng bánh</div>
+                            <div class="tp-caption ps-banner__description" id="layer05" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-type="text" data-responsive_offset="on" data-textAlign="['center','center','center','center']" data-frames="[{&quot;from&quot;:&quot;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1500,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;x:left(R);&quot;,&quot;ease&quot;:&quot;Power3.easeIn&quot;}]">Hãy đến với chúng tôi.Thế giới bánh đang đợi bạn.</div><a class="tp-caption ps-btn ps-btn--lg" href="#" id="layer06" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['80','70','70','70']" data-type="text" data-responsive_offset="on" data-textAlign="['center','center','center','center']" data-frames="[{&quot;from&quot;:&quot;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1500,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;x:left(R);&quot;,&quot;ease&quot;:&quot;Power3.easeIn&quot;}]">Thử bánh ngay <i class="fa fa-angle-right"></i></a>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+        <div>
+            @RenderBody()
+        </div>
+        <section class="ps-section ps-section--subscribe pt-80 pb-80">
+            <div class="container">
+                <div class="ps-subscribe">
+                    <div class="row">
+                        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ">
+                            <h4>Thông tin</h4>
+                            <p>Chúng tôi luôn cung cấp những miếng bánh hảo hạng, được kỳ công chế biến để phục vụ quý khách hàng. Chúng tôi luôn nỗ lực để cho ra nhiều loại bánh hơn. Cảm ơn quý khách đã tin tưởng vào sản phẩm của chúng tôi suốt thời gian qua.</p>
+                            <p class="text-uppercase ps-subscribe__highlight">416 Thạch Lam</p>
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 ">
+                            <a class="ps-subscribe__logo" href="index.html"><img src="~/images/logo-1.png" alt=""></a>
+                        </div>
+                        @Html.Action("Subcribe", "Nguoidung")
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="ps-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+                        <div class="ps-widget ps-widget--footer ps-widget--payment">
+                            <div class="ps-widget__header">
+                                <h3 class="ps-widget__title">PHƯƠNG THỨC THANH TOÁN</h3>
+                            </div>
+                            <div class="ps-widget__content">
+                                <ul>
+                                    <li><a href="#"><img src="~/images/payment/1.png" alt=""></a></li>
+                                    <li><a href="#"><img src="~/images/payment/2.png" alt=""></a></li>
+                                    <li><a href="#"><img src="~/images/payment/3.png" alt=""></a></li>
+                                    <li><a href="#"><img src="~/images/payment/4.png" alt=""></a></li>
+                                    <li><a href="#"><img src="~/images/payment/5.png" alt=""></a></li>
+                                </ul>
+                                <a href="//www.dmca.com/Protection/Status.aspx?ID=bfbb0919-5d5f-4434-861c-aeace31ff7c6" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=bfbb0919-5d5f-4434-861c-aeace31ff7c6" alt="DMCA.com Protection Status" /></a>
+                                <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"></script>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+                        <div class="ps-widget ps-widget--footer ps-widget--worktime">
+                            <div class="ps-widget__header">
+                                <h3 class="ps-widget__title">THỜI GIAN LÀM VIỆC</h3>
+                            </div>
+                            <div class="ps-widget__content">
+                                <p><strong>Thứ 2 - Thứ 6</strong> 8:00 am - 8:30 pm</p>
+                                <p><strong>Thứ 7 - Chủ nhật</strong>10:00 am - 16:30 pm</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+                        <div class="ps-widget ps-widget--footer ps-widget--order">
+                            <div class="ps-widget__header">
+                                <h3 class="ps-widget__title">THÔNG TIN ĐIỀU KHOẢN</h3>
+                            </div>
+                            <div class="ps-widget__content">
+                                <ul class="ps-list--line">
+                                    <li><a href="#">Order</a></li>
+                                    <li><a href="#">Shipping</a></li>
+                                    <li><a href="#">Policy Return Policy</a></li>
+                                    <li><a href="#">Payments</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+                        <div class="ps-widget ps-widget--footer ps-widget--connect">
+                            <div class="ps-widget__header">
+                                <h3 class="ps-widget__title">KẾT NỐI VỚI CHÚNG TÔI</h3>
+                            </div>
+                            <div class="ps-widget__content" style="width:500px">
+                                <div class="fb-page" data-href="https://www.facebook.com/vanilla.phunhuan" data-tabs="timeline" data-width="350" data-height="100" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/VanilaBakery-318122522239553/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/VanilaBakery-318122522239553/">VanilaBakery</a></blockquote></div>
+                                <p>Bản quyền &copy;
+                                <script>document.write(new Date().getFullYear());</script> Thiết kế bởi<a href="~/Admin/Login"> One Member</a>.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script type="text/javascript" src="~/plugins/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="~/plugins/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="~/plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="~/plugins/overflow-text.js"></script>
+    <script type="text/javascript" src="~/plugins/masonry.pkgd.min.js"></script>
+    <script type="text/javascript" src="~/plugins/~/imagesloaded.pkgd.js"></script>
+    <script type="text/javascript" src="~/plugins/jquery-bar-rating/dist/jquery.barrating.min.js"></script>
+    <script type="text/javascript" src="~/plugins/jquery-nice-select/js/jquery.nice-select.min.js"></script>
+    <script type="text/javascript" src="~/plugins/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
+    <script type="text/javascript" src="~/plugins/jquery-ui/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="~/plugins/moment.js"></script>
+    <script type="text/javascript" src="~/plugins/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
+    <script type="text/javascript" src="~/plugins/slick/slick/slick.min.js"></script>
+    <script type="text/javascript" src="~/plugins/gmap3.min.js"></script>
+    <script type="text/javascript" src="~/plugins/lightGallery-master/dist/js/lightgallery-all.min.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAx39JFH5nhxze1ZydH-Kl8xXM3OK4fvcg&amp;region=GB"></script>
+    <!-- Revolution - slider-->
+    <script type="text/javascript" src="~/plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <!-- Custom scripts-->
+    <script type="text/javascript" src="~/Scripts/main.js"></script>
+    @*ajax mvc*@
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    @*<div id="fb-root"></div>
+    <script>$(document).ready(function () { var raido = $(".wrap").attr("data-toggle"); if (raido == 1) { $(".vnk-tuvan").css("display", "none"); $(".x").click(function () { $(".wrap").slideToggle(); $(".vnk-tuvan").slideToggle(); }); $(".vnk-tuvan").click(function () { $(".wrap").slideToggle(); $(this).slideToggle(); }); } else { $(".wrap").css("display", "none"); $(".x").click(function () { $(".wrap").slideToggle(); $(".vnk-tuvan").slideToggle(); }); $(".vnk-tuvan").click(function () { $(".wrap").slideToggle(); $(this).slideToggle(); }); } })(function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.2&appId=126586364523772"; fjs.parentNode.insertBefore(js, fjs); }(document, "script", "facebook-jssdk"));</script>
+    <style>
+        .wrap {
+            position: fixed;
+            width: 300px;
+            height: 400px;
+            z-index: 9999999;
+            right: 0px;
+            bottom: 0px;
+        }
+
+        .x {
+            font-family: arial, helvetica;
+            background: rgba(78,86,101,0.8) none repeat scroll 0 0;
+            font-size: 14px;
+            font-weight: bold;
+            color: #fff;
+            display: inline-block;
+            height: 25px;
+            line-height: 25px;
+            position: absolute;
+            right: 0;
+            text-align: center;
+            top: -19px;
+            width: 25px;
+            z-index: 99999999;
+        }
+
+            .x:hover {
+                cursor: pointer;
+            }
+
+        .pxem {
+            text-align: left;
+            height: 20px;
+            margin-bottom: 0;
+            margin-top: 0;
+            background: #34495E;
+            width: 100%;
+            bottom: 0;
+            display: block;
+            left: 0px;
+            position: absolute;
+            z-index: 999999999;
+            border-left: 1px solid #fff;
+        }
+
+            .pxem a.axem {
+                color: #fff;
+                font-family: arial,helvetica;
+                font-size: 12px;
+                line-height: 23px;
+                padding-left: 5px;
+                text-decoration: none;
+            }
+
+                .pxem a.axem:hover {
+                    text-decoration: underline;
+                }
+
+        .alogo {
+            position: absolute;
+            bottom: 0;
+            right: 0px;
+            z-index: 999999999999;
+            width: 75px;
+            height: 20px;
+            display: inline-block;
+            background: #34495E;
+            border-left: 2px solid #2c3e50;
+            padding-right: 0px;
+            padding-left: 5px;
+        }
+
+        .vnk-tuvan {
+            position: fixed;
+            width: 300px;
+            background: #34495E;
+            z-index: 99999999;
+            right: 0px;
+            bottom: 0px;
+            border-style: solid solid none;
+            border-width: 1px 1px 0;
+            border-color: #2c3e50;
+        }
+
+            .vnk-tuvan p {
+                color: #fff;
+                font-size: 15px;
+                margin: 0;
+                padding: 0 13px;
+                text-align: left;
+            }
+
+                .vnk-tuvan p a {
+                    color: #fff;
+                    font-size: 15px;
+                    padding: 5px 0px 7px;
+                    margin: 0;
+                    display: inline-block;
+                    font-family: arial, helvetica;
+                    text-decoration: none;
+                }
+
+                    .vnk-tuvan p a:hover {
+                        text-decoration: underline;
+                        cursor: pointer;
+                    }
+
+                .vnk-tuvan p img {
+                    float: right;
+                    margin-top: 10px;
+                }
+    </style><div data-toggle="0" class="wrap" style="position:fixed; width:280px; height: 320px; "><span class="x" style="">X</span><div class="fb-page" data-adapt-container-width="true" data-height="320" data-hide-cover="false" data-href="https://www.facebook.com/VanilaBakery-318122522239553/" data-show-facepile="true" data-show-posts="false" data-small-header="false" data-tabs="messages" data-width="280" style="position:relative; z-index:9999999; right:0px; bottom:21px;border-left: 1px solid #fff;border-top: 1px solid #fff;"></div><p class="pxem" style=""><a class="axem" style="" href="#" target="_blank">Chào mừng bạn đến với Vanila Bakery</a></p></div><div class="vnk-tuvan" style="width: 278px;"><p style=" "><a style="">Bạn cần tư vấn sản phẩm ?</a><img src="https://image.prntscr.com/image/4X78J2NSTd2w1UrRr47ggA.png"></p></div>*@
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.2&appId=312088162785608&autoLogAppEvents=1"></script>
+</body>
+</html>

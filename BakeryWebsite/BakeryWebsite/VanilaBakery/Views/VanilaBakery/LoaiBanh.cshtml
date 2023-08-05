@@ -1,0 +1,8 @@
+﻿@model IEnumerable<VanilaBakery.Models.LOAI>
+
+
+@foreach (var item in Model)
+{
+        <li><a href="@Url.Action("SPTheoLoai","VanilaBakery",new { id=item.MaLoai })"><span class="circle"></span>@item.LoaiBanh</a></li>
+}
+

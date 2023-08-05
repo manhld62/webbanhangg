@@ -1,0 +1,63 @@
+﻿@model IEnumerable<VanilaBakery.Models.KHACHHANG>
+@{
+    ViewBag.Title = "QLKhachHang";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style="text-align:center;color:red;">Quản Lý Khách Hàng</h2>
+@if (Session["admin"] != null)
+{
+    <div>@Html.Partial("Them2")</div>
+
+}
+<table id="table_id" class="display">
+    <thead>
+        <tr>
+            <th>Họ Tên</th>
+            <th>Tài Khoản</th>
+            <th>Mật Khẩu</th>
+            <th>Email</th>
+            <th> Địa Chỉ Khách Hàng</th>
+            <th>Điện Thoại Khách Hàng</th>
+            <th>Ngày Sinh</th>
+            <th>Chức Năng</th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.HoTen)</td>
+                <td>@Html.DisplayFor(modelItem => item.Taikhoan)</td>
+                <td>@Html.DisplayFor(modelItem => item.Matkhau)</td>
+                <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                <td>@Html.DisplayFor(modelItem => item.DiachiKH)</td>
+                <td>@Html.DisplayFor(modelItem => item.DienthoaiKH)</td>
+                <td>@Html.DisplayFor(modelItem => item.Ngaysinh)</td>
+                @if (Session["admin"] != null)
+                {
+                    <td>
+                        <div>
+                            <div>
+                                <a class="btn btn-primary" style="float:left; margin-right:10px" href="@Url.Action("Sua2","Admin", new { id = item.MaKH})">Sửa</a>
+                            </div>
+                            <div>
+                                <a class="btn btn-primary" style=" float:left; margin-top:10px" href="@Url.Action("Xoa2","Admin", new { id = item.MaKH}) ">Xóa</a>
+                            </div>
+                        </div>
+                    </td>
+
+                }
+            </tr>
+        </tbody>
+    }
+
+
+</table>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#table_id').DataTable();
+    });
+</script>

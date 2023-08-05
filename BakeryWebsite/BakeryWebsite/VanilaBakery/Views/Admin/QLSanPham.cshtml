@@ -1,0 +1,89 @@
+﻿@model IEnumerable<VanilaBakery.Models.BANH>
+@{
+                /**/
+
+                /**/
+
+                ViewBag.Title = "QLSanPham";
+                Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style="text-align:center;color:red;">Quản Lý Sản Phẩm</h2>
+<div>@Html.Partial("Them1")</div>
+<table id="myTable" class="display">
+    <thead>
+        <tr> 
+            <th>Tên Bánh</th>
+            <th>Mã Bánh</th>
+            <th>Giá Chưa Giảm</th>
+            <th>Giá Bán</th>
+            <th> Mô Tả Chi Tiết Sản Phẩm</th>
+            <th>Hình Ảnh</th>
+            <th>Ngày Cập Nhập</th>
+            <th>Số Lượng Tồn</th>
+            <th>Giảm Giá</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.TenBanh)</td>
+                <td>@Html.DisplayFor(modelItem => item.MaBanh)</td>
+                <td>@Html.DisplayFor(modelItem => item.GiaChuaGiam)</td>
+                <td>@Html.DisplayFor(modelItem => item.Giaban)</td>
+                <td>@Html.DisplayFor(modelItem => item.Mota)</td>
+                <td>
+                    <img src="~/images/cake/@item.Hinhanh" width="40px" height="40px" />
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.Ngaycapnhat)</td>
+                <td>@Html.DisplayFor(modelItem => item.Soluongton)</td>
+                <td>@Html.DisplayFor(modelItem => item.GiamGia)</td>
+                <td>
+                    <div>
+                        <div>
+                            <a class="btn btn-primary" style="float:left; margin-right:10px" href="@Url.Action("Sua1","Admin", new { id = item.MaBanh})">Sửa</a>
+                        </div>
+                        <div>
+                            <a class="btn btn-primary" style=" float:left; margin-top:10px" href="@Url.Action("Xoa1","Admin", new { id = item.MaBanh}) ">Xóa</a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    }
+
+   
+</table>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#table_id').DataTable();
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $('#myTable').DataTable({
+            "language": {
+                "sProcessing": "Đang xử lý...",
+                "sLengthMenu": "Xem _MENU_ Bánh",
+                "sZeroRecords": "Không tìm thấy Bánh nào phù hợp",
+                "sInfo": "Đang xem _START_ đến _END_ trong tổng số _TOTAL_ ",
+                "sInfoEmpty": "Đang xem 0 đến 0 trong tổng số 0 Bánh",
+                "sInfoFiltered": "(được lọc từ _MAX_ Bánh)",
+                "sInfoPostFix": "",
+                "sSearch": "Tìm Bánh:",
+                "sUrl": "",
+                "oPaginate": {
+                    "sFirst": "Đầu",
+                    "sPrevious": "Trước",
+                    "sNext": "Tiếp",
+                    "sLast": "Cuối"
+                }
+
+            }
+        });
+    });
+</script>

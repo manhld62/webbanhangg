@@ -1,0 +1,108 @@
+﻿
+@{
+    ViewBag.Title = "Chi Tiết Blog";
+    Layout = "~/Views/Shared/_LayoutUser1.cshtml";
+}
+
+<div class="ps-section--page-reverse">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 ">
+                <div class="ps-blog-detail pt-80 pb-80">
+                    <div class="ps-post">
+                        <div class="ps-post__thumbnail"><a class="ps-post__overlay" href="blog-detail.html"></a><img src="~/images/blog/@Model.HinhAnh2" alt=""></div>
+                        <div class="ps-post__header">
+                            <a class="ps-post__title" href="blog-detail.html">@Model.TomTat</a>
+                            <div class="ps-post__meta"><span><i class="fa fa-calendar-check-o"></i>@Model.NgayDangTin</span><span><i class="fa fa-comment-o"></i>@Model.SoLuotXem</span></div>
+                        </div>
+                        <div class="ps-post__content">
+                            @Html.Raw(Model.NoiDung)
+                        </div>
+                        <footer class="ps-post__footer">
+                            <div class="row">
+                                <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ">
+                                    <div class="ps-post__tags"><i class="fa fa-tags"></i><a href="blog-listing.html">Travel</a><a href="blog-listing.html">Balkal</a><a href="blog-listing.html">Lake</a></div>
+                                </div>
+                                <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 ">
+                                    <div class="ps-post__action"><a class="like" href="#">Like<i class="fa fa-heart"></i><span><i>2</i></span></a><a class="facebook" href="#"><i class="fa fa-facebook"></i>Share</a><a class="twitter" href="#"><i class="fa fa-twitter"></i>Tweet</a></div>
+                                </div>
+                            </div>
+                        </footer>
+                    </div>
+                   
+                    <!-- Comment-->
+                    
+                    <!--Contact-->
+                    <div class="fb-comments" data-href="http://localhost:53115/VanilaBakery/ChiTietBlog/2" data-width="760" data-numposts="5"></div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
+                <div class="ps-sidebar">
+                    <aside class="ps-widget ps-widget--sidebar ps-widget--search">
+                        <form method="post" action="search-result.html">
+                            <input class="form-control" type="text" placeholder="Type here bakery name...">
+                            <button type="submit"><i class="ps-icon--search"></i></button>
+                        </form>
+                    </aside>
+                    <aside class="ps-widget ps-widget--sidebar ps-widget--category">
+                        <div class="ps-widget__header">
+                            <h3 class="ps-widget__title">Category</h3>
+                        </div>
+                        <div class="ps-widget__content">
+                            <ul class="ps-list--arrow">
+                                <li class="current"><a href="product-listing.html"><span class="circle"></span>All bakery (321)</a></li>
+                                <li><a href="product-listing.html"><span class="circle"></span>Amazin’ Glazin’</a></li>
+                                <li><a href="product-listing.html"><span class="circle"></span>The Crusty Croissant</a></li>
+                                <li><a href="product-listing.html"><span class="circle"></span>The Rolling Pin</a></li>
+                                <li><a href="product-listing.html"><span class="circle"></span>Skippity Scones</a></li>
+                                <li><a href="product-listing.html"><span class="circle"></span>Mad Batter</a></li>
+                                <li><a href="product-listing.html"><span class="circle"></span>Confection Connection</a></li>
+                            </ul>
+                        </div>
+                    </aside>
+                    <aside class="ps-widget ps-widget--sidebar ps-widget--ads">
+                        <div class="ps-widget__header">
+                            <h3 class="ps-widget__title">Ads Banner</h3>
+                        </div>
+                        <div class="ps-widget__content"><img src="images/widget/banner2x.png" alt=""></div>
+                    </aside>
+                    <aside class="ps-widget ps-widget--sidebar ps-widget--recent-post">
+                        <div class="ps-widget__header">
+                            <h3 class="ps-widget__title">Recent Post</h3>
+                        </div>
+                        <div class="ps-widget__content">
+                            <div class="ps-post ps-post--sidebar">
+                                <div class="ps-post__thumbnail"><a class="ps-post__overlay" href="#"></a><img src="images/blog/thumbnail1.jpg" alt=""></div>
+                                <div class="ps-post__content"><a href="#" data-number-line="2">Các Công Thức Bánh Ngon</a><span>January 29, 2023</span></div>
+                            </div>
+                            <div class="ps-post ps-post--sidebar">
+                                <div class="ps-post__thumbnail"><a class="ps-post__overlay" href="#"></a><img src="images/blog/thumbnail2.jpg" alt=""></div>
+                                <div class="ps-post__content"><a href="#" data-number-line="2">Hướng Dẫn Làm Bánh Tại Nhà</a><span>January 29, 2023</span></div>
+                            </div>
+                            <div class="ps-post ps-post--sidebar">
+                                <div class="ps-post__thumbnail"><a class="ps-post__overlay" href="#"></a><img src="images/blog/thumbnail3.jpg" alt=""></div>
+                                <div class="ps-post__content"><a href="#" data-number-line="2">Bữa Tiệc Ngoài Trời</a><span>January 29, 2023</span></div>
+                            </div>
+                        </div>
+                    </aside>
+                    <aside class="ps-widget ps-widget--sidebar ps-widget--tags">
+                        <div class="ps-widget__header">
+                            <h3 class="ps-widget__title">TAGS</h3>
+                        </div>
+                        <div class="ps-widget__content">
+                            <ul class="ps-tags">
+                                <li><a href="#">Cupcake</a></li>
+                                <li><a href="#">vanila</a></li>
+                                <li><a href="#">sugar flower</a></li>
+                                <li><a href="#">vanila</a></li>
+                                <li><a href="#">coconut</a></li>
+                                <li><a href="#">vanila</a></li>
+                            </ul>
+                        </div>
+                    </aside>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

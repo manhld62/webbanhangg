@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "Liên Hệ";
+    Layout = "~/Views/Shared/_LayoutUser1.cshtml";
+}
+
+<div class="ps-section pt-80 pb-80">
+    <div class="container">
+        <div class="ps-contact">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+                    <div class="ps-contact__info">
+                        
+
+                        <div class="ps-contact__block">
+                            <h4></h4>
+                            <p><i class="fa fa-envelope-o"></i>vanilabakery@gmail.com</p>
+                            <p><i class="fa fa-phone"></i>0961293595</p>
+                            <h4>Follow Us</h4>
+                            <ul class="ps-contact__social">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-rss"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+                    <h1 style="text-align:center;color:red;margin-top:-30px">LIÊN HỆ</h1>
+                    <div class="ps-contact__form">
+                        @using (Html.BeginForm("LienHe","NguoiDung",FormMethod.Post))
+                        {
+                            @Html.ValidationSummary(true)
+                        <div class="form-group">
+                            <input class="form-control" type="text" placeholder="Họ tên" name="HoTen">
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control" type="email" placeholder="E-mail" name="Email">
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control" type="text" placeholder="Số điện thoại" name="DienThoaiKH">
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" rows="6" placeholder="Ghi nội dung tại đây" name="NoiDung"></textarea>
+                        </div>
+                        <div class="form-group mt-30">
+                            <button class="ps-btn ps-btn--sm ps-contact__submit" type="submit">Submit</button>
+                        </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

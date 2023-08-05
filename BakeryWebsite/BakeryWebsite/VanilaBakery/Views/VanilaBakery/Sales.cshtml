@@ -1,0 +1,40 @@
+﻿@model IEnumerable<VanilaBakery.Models.BANH>
+<div class="container">
+    <div class="ps-section__header text-center mb-50">
+        <h4 class="ps-section__top">Sweet Cupcakes</h4>
+        <h3 class="ps-section__title ps-section__title--full">BEST SELLER</h3>
+    </div>
+    <div class="ps-section__content">
+        <div class="owl-slider owl-slider--best-seller" data-owl-auto="true" data-owl-loop="true" data-owl-speed="5000" data-owl-gap="30" data-owl-nav="true" data-owl-dots="false" data-owl-animate-in="" data-owl-animate-out="" data-owl-item="4" data-owl-item-xs="1" data-owl-item-sm="2" data-owl-item-md="3" data-owl-item-lg="4" data-owl-nav-left="&lt;i class=&quot;ps-icon--back&quot;&gt;&lt;/i&gt;" data-owl-nav-right="&lt;i class=&quot;ps-icon--next&quot;&gt;&lt;/i&gt;">
+        @foreach (var item in Model)
+        {
+            <div class="ps-product">
+                <div class="ps-product__thumbnail">
+                    <div class="ps-badge"><span>-@item.GiamGia</span></div><a class="ps-product__overlay" href="@Url.Action("ChiTiet","VanilaBakery",new { id=item.MaBanh})"></a><img src="~/images/cake/@item.Hinhanh" alt="">
+                    <ul class="ps-product__action">
+                        <li><a class="popup-modal" href="#quickview-modal" data-effect="mfp-zoom-out" data-tooltip="View"><i class="ps-icon--search"></i></a></li>
+                        <li><a href="#" data-tooltip="Add to wishlist"><i class="ps-icon--heart"></i></a></li>
+                        <li><a href="#" data-tooltip="Compare"><i class="ps-icon--reload"></i></a></li>
+                        <li><a href="#" data-tooltip="Add to cart"><i class="ps-icon--shopping-cart"></i></a></li>
+                    </ul>
+                </div>
+                <div class="ps-product__content">
+                    <a class="ps-product__title" href="@Url.Action("ChiTiet","VanilaBakery",new { id=item.MaBanh})">@item.TenBanh</a>
+                    <div class="ps-product__category">
+                        <a class="ps-product__category" href="product-listing.html">cupcake</a><a class="ps-product__category" href="product-listing.html">sweet</a><a class="ps-product__category" href="product-listing.html">bio</a>
+                    </div>
+                    <select class="ps-rating">
+                        <option value="1">1</option>
+                        <option value="1">2</option>
+                        <option value="1">3</option>
+                        <option value="1">4</option>
+                        <option value="5">5</option>
+                    </select>
+                    <p class="ps-product__price">@String.Format("{0:0,0}", item.Giaban)<sup>đ</sup></p>
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+</div>
+

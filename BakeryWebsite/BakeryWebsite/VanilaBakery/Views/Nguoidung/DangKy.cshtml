@@ -1,0 +1,94 @@
+﻿@using CaptchaMvc.HtmlHelpers
+@using CaptchaMvc;
+@{
+    ViewBag.Title = "Đăng Ký";
+    Layout = "~/Views/Shared/_LayoutUser1.cshtml";
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading" style="margin-top:30px;text-align:center">ĐĂNG KÝ THÀNH VIÊN</div>
+    <div class="panel-body">
+       
+        <form class="form-horizontal" method="POST" action="">
+        @using (Html.BeginForm("DangKy","Nguoidung",FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(false)
+            <div class="form-group">
+                <label class="control-label col-sm-3" for="hoten">Họ tên:</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="hoten" name="hotenkh" required placeholder="Họ tên"  >@ViewData["Loi1"]
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-3" for="username">Tên đăng nhập:</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="username" name="TenDN" onblur="CheckUser()" required placeholder="Tên đăng nhập">@ViewData["Loi2"]
+                    <p onkeyup="ClearMessageUser()"></p>
+                    <p id="messageUser"></p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-3" for="pass">Mật khẩu:</label>
+                <div class="col-sm-9">
+                    <input type="password" class="form-control" id="pass" name="Matkhau" required placeholder="Mật khẩu">@ViewData["Loi3"]
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-3" for="repass">Gõ lại Mật khẩu:</label>
+                <div class="col-sm-9">
+                    <input type="password" class="form-control" id="repass" name="Nhaplai" required placeholder="Mật khẩu" >@ViewData["Loi4"]
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-3" for="diachi">Địa chỉ:</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="diachi" name="Diachi" placeholder="Địa chỉ nhà">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-3" for="email">Email:</label>
+                <div class="col-sm-9">
+                    <input type="email" class="form-control" id="email" onblur="CheckEmail()" name="email" placeholder="Địa chỉ mail">@ViewData["Loi5"]
+                    <p onkeyup="ClearMessageEmail()"></p>
+                    <p id="messageEmail"></p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-3" for="dienthoai">Số điện thoại:</label>
+                <div class="col-sm-9">
+                    <input type="tel" class="form-control" id="dienthoai" name="Dienthoai" placeholder="Số điện thoại">@ViewData["Loi6"]
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-3" for="ngaysinh">Ngày sinh:</label>
+                <div class="col-sm-9">
+                    <input type="date" class="form-control" id="ngaysinh" name="Ngaysinh">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-3"></label>
+                <div class="col-sm-9">
+                  @Html.Captcha(5)
+                </div>
+            </div>
+            if(ViewBag.Loi!=null)
+            { 
+            <div class="alert alert-danger" style="width: 150px;padding-left: 20px;margin-left: 335px">
+                <strong>@ViewBag.Loi</strong>
+            </div>
+            }
+            <div class="form-group">
+                <label class="control-label col-sm-3"></label>
+                <div class="col-sm-9">
+                    <button type="reset" class="btn btn-default">Xóa</button>
+                    <button type="submit" class="btn btn-default">Đăng ký</button>
+                </div>
+            </div>
+        }
+        </form>
+    </div>
+    <div class="panel-footer">Mời bạn nhập đúng các thông tin của mình </div>
+</div>
+<script src="~/Content/Vanila/Vanila.js"></script>

@@ -1,0 +1,81 @@
+﻿<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Thêm Sản Phẩm</button>
+@using (Html.BeginForm("Them1", "Admin", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Thêm quản trị </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form enctype="multipart/form-data">
+
+                        <div class="form-group ">
+                            <label for="inputText">Tên Sản Phẩm</label>
+                            <input type="text" class="form-control" id="inputText" name="TenBanh" placeholder="Tên sản phẩm">
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="inputText">Giá Bán</label>
+                                <input type="number" name="Giaban" class="form-control"  id="inputText" placeholder="Giá bán ">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="inputText">Giá chưa giảm </label>
+                                <input type="number" name="GiaChuaGiam" class="form-control" id="inputText" placeholder="Giá chưa giảm ">
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label for="inputText">Mô tả sản phẩm</label>
+                            <input type="text" name="Mota" class="form-control" id="inputText" placeholder="Mô Tả Sản Phẩm" width="200px" height="300px">
+                        </div>
+                        <div class="group">
+                            <label for="recipient-name" class="col-form-label">Hình Ảnh</label>
+                            <input type="file" name="Hinhanh" id="fileToUpload">
+                            <img src="#" alt="" id="#HinhAnhSP">
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="inputText">Ngày cập nhập</label>
+                                <input type="date" name="Ngaycapnhat" class="form-control" id="inputText">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="inputText">Số lượng</label>
+                                <input type="number" name="Soluongton" min="1" max="100" class="form-control" id="inputText" placeholder="Số Lượng">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="inputText">Mã Loại</label>
+                                <input type="number" name="MaLoai" min="1" max="4" class="form-control" id="inputText" placeholder="Mã Loại">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="inputText">Giảm giá</label>
+                                <input type="number" name="GiamGia" min="1" max="100" class="form-control" id="inputText" placeholder="Giảm Giá theo %">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Add</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+<script>
+        function readURL(input) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $("#HinhAnhSP")
+                        .attr('src', e.target.result);
+                };
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+</script>

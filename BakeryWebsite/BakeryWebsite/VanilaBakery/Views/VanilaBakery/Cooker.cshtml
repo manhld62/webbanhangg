@@ -1,0 +1,24 @@
+﻿@model IEnumerable<VanilaBakery.Models.DauBep>
+<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 ">
+    <div class="ps-section__content">
+        <div class="row">
+            @foreach(var daubep in Model)
+            { 
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ">
+                <article class="ps-people">
+                    <div class="ps-people__thumbnail"><a class="ps-people__overlay" href="#"></a><img src="~/images/team/@daubep.HinhAnh" alt=""></div>
+                    <div class="ps-people__content">
+                        <h4>@daubep.TenDauBep</h4><span class="ps-people__position">@daubep.ChucDanh</span>
+                        <p>@daubep.CauChamNgon</p>
+                        <ul class="ps-people__social">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        </ul>
+                    </div>
+                </article>
+            </div>
+            }
+        </div>
+    </div>
+</div>

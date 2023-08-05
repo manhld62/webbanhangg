@@ -1,0 +1,25 @@
+﻿@using VanilaBakery.Models
+@model List<GioHang>
+<div class="ps-cart">
+                        <a class="ps-cart__toggle" href="#"><span><i>@ViewBag.Tongsoluong</i></span><i class="ps-icon--shopping-cart"></i></a>
+                        <div class="ps-cart__listing">
+                            <div class="ps-cart__content">
+                                @foreach(var item in Model)
+                                { 
+                                <div class="ps-cart-item">
+                                    <a class="ps-cart-item__close" href="@Url.Action("XoaGioHang", "GioHang", new { @iMaSp = item.iMabanh })"></a>
+                                    <div class="ps-cart-item__thumbnail"><a href="product-detail.html"></a><img src="~/images/cake/@item.sHinhanh" alt=""></div>
+                                    <div class="ps-cart-item__content">
+                                        <a class="ps-cart-item__title" href="product-detail.html">@item.sTenbanh</a>
+                                        <p><span>Số Lượng:<i>@item.iSoluong</i></span><span>Giá:<i>@String.Format("{0:0,0}", item.dThanhtien)<sup>đ</sup></i></span></p>
+                                    </div>
+                                </div>
+                                }
+                            </div>
+                            <div class="ps-cart__total">
+                                <p>Tổng số lượng:<span>@ViewBag.Tongsoluong</span></p>
+                                <p>Tổng tiền:<span>@String.Format("{0:0,0}", ViewBag.Tongtien)<sup>đ</sup></span></p>
+                            </div>
+                            <div class="ps-cart__footer"><a class="ps-btn ps-btn--view-bag" href="@Url.Action("GioHang","GioHang")">Xem Giỏ Hàng</a></div>
+                        </div>
+                    </div>

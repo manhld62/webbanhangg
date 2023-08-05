@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Xác Nhận Đơn Hàng";
+    Layout = "~/Views/Shared/_LayoutUser1.cshtml";
+}
+
+<div class="alert alert-success">
+    @if (ViewBag.Mess != null)
+    {
+        @ViewBag.Mess
+    }
+</div> 
+<button type="button" class="btn btn-info">@Html.ActionLink("VỀ TRANG CHỦ", "Index", "VanilaBakery") </button>

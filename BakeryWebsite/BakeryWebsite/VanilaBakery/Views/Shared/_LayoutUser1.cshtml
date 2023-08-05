@@ -1,0 +1,262 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link href="apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="favicon.png" rel="icon">
+    <meta name="author" content="#{author}">
+    <meta name="keywords" content="#{keyword}">
+    <meta name="description" content="#{description}">
+    <!-- Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700%7CPacifico%7CVarela+Round%7CPoppins" rel="stylesheet">
+    <link rel="stylesheet" href="~/plugins/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/plugins/jquery-bar-rating/dist/themes/fontawesome-stars.css">
+    <link rel="stylesheet" href="~/plugins/ps-icon/ps-icon.css">
+    <link rel='stylesheet' id='google-open-sans-css' href='http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=4.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='google-lily-script-one-css' href='http://fonts.googleapis.com/css?family=Lily+Script+One&#038;subset=latin%2Clatin-ext&#038;ver=4.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='google-Leckerli-one-css' href='http://fonts.googleapis.com/css?family=Leckerli+One&#038;ver=4.4' type='text/css' media='all' />
+    <!-- CSS Library-->
+    <link rel="stylesheet" href="~/plugins/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/plugins/owl-carousel/assets/owl.carousel.css">
+    <link rel="stylesheet" href="~/plugins/jquery-bar-rating/dist/themes/fontawesome-stars.css">
+    <link rel="stylesheet" href="~/plugins/Magnific-Popup/dist/magnific-popup.css">
+    <link rel="stylesheet" href="~/plugins/jquery-ui/jquery-ui.min.css">
+    <link rel="stylesheet" href="~/plugins/bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" href="~/plugins/slick/slick/slick.css">
+    <link rel="stylesheet" href="~/plugins/lightGallery-master/dist/css/lightgallery.min.css">
+    <link rel="stylesheet" href="~/plugins/revolution/css/settings.css">
+    <link rel="stylesheet" href="~/plugins/revolution/css/layers.css">
+    <link rel="stylesheet" href="~/plugins/revolution/css/navigation.css">
+
+    <link rel='stylesheet' id='woocommerce-layout-css' href='~/Content/woocommerce-layout.css?ver=2.4.12' type='text/css' media='all' />
+    <link rel='stylesheet' id='woocommerce-smallscreen-css' href='~/Content/woocommerce-smallscreen.css?ver=2.4.12' type='text/css' media='only screen and (max-width: 768px)' />
+    <link rel='stylesheet' id='woocommerce-general-css' href='~/Content/woocommerce.css?ver=2.4.12' type='text/css' media='all' />
+    <link rel='stylesheet' id='bootstrap-css' href='~/Content/bootstrap.css?ver=1.3.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='flexslider-css' href='~/Scripts/js/flexslider/flexslider.css?ver=2.2.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='owl-carousel-css' href='~/Scripts/js/carousel/owl.carousel.css?ver=1.24' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-css' href='~/Content/font-awesome.css?ver=4.0.3' type='text/css' media='all' />
+    <link rel='stylesheet' id='selectric-css' href='~/Content/selectric.css?ver=1.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='image-light-box-css-css' href='~/Scripts/js/image-lightbox/image-light-box.css?ver=1.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='meanmenu-css' href='~/Content/meanmenu.css?ver=2.0.6' type='text/css' media='all' />
+    <link rel='stylesheet' id='responsive-tables-css' href='~/Content/esponsive-tables.css?ver=2.1.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='animate-css' href='~/Content/animate.css?ver=1.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='main-css' href='~/Content/main.css?ver=1.3.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='parent-custom-css' href='~/Content/custom.css?ver=1.0' type='text/css' media='all' />
+    <!-- Custom-->
+    <link rel="stylesheet" href="~/Content/style.css">
+    <!-- Start of  Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3fe38af4-4b16-43ba-99fa-2b3768b9674a"></script>
+    <!-- End of  Zendesk Widget script -->
+</head>
+<body class="page-init">
+    @*@Html.Action("TimKiem", "Nguoidung")*@
+    <div class="header--sidebar"></div>
+    <header class="header header--2" data-responsive="1199">
+        <div class="header__top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-7 col-sm-12 col-xs-12 ">
+                        <p>Ngõ 448 Hà Huy Tập - Yên Viên -Hà Nội Hotline:0961293595</p>
+                    </div>
+                    <div class="col-lg-4 col-md-5 col-sm-12 col-xs-12 ">
+                        <a class="ps-search-btn" href="#"><i class="ps-icon--search"></i></a>
+                        <div class="btn-group ps-dropdown">
+                            <a href="@Url.Action("DangKy","Nguoidung")" aria-haspopup="true" aria-expanded="false">Đăng ký<i></i></a>
+                            <ul class="dropdown-menu"></ul>
+                        </div>
+                        <div class="btn-group ps-dropdown">
+                            <a href="@Url.Action("DangNhap","Nguoidung")" aria-haspopup="true" aria-expanded="false">Đăng nhập<i></i></a>
+                            <ul class="dropdown-menu"></ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <nav class="navigation">
+            <div class="container">
+                <div class="menu-toggle"><span></span></div>
+                <div class="navigation__left">
+                    <ul class="menu menu--left">
+                        <li>
+                            <a href="@Url.Action("Index","VanilaBakery")">Trang chủ</a>
+                        </li>
+                        <li><a href="@Url.Action("GioiThieu","VanilaBakery")">Giới thiệu</a></li>
+                        <li >
+                            <a href="@Url.Action("ShowBanh","VanilaBakery")">Bánh</a>
+
+                        </li>
+                        <li>
+                            <a href="@Url.Action("ChiNhanh","VanilaBakery")">Chi Nhánh</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="navigation__right">
+                    <ul class="menu menu--right">
+                        <li><a href="@Url.Action("ThuVienAnh","VanilaBakery")">Thư viện ảnh</a></li>
+                        <li class="">
+                            <a href="@Url.Action("DanhSachBlog","VanilaBakery")">Tin Tức</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("LienHe","Nguoidung")">Liên hệ</a>
+                        </li>
+                    </ul>
+                    @Html.Action("GioHangCon", "GioHang")
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div id="back2top"><i class="fa fa-angle-up"></i></div>
+    <div class="loader"></div>
+    <div class="page-wrap">
+        <div class="ps-section--hero">
+            <img src="~/images/hero/03.jpg" alt="">
+            <div class="ps-section__content text-center">
+                <h3 class="ps-section__title">Cửa hàng bánh Vanila</h3>
+                <div class="ps-breadcrumb">
+                    <ol class="breadcrumb">
+                        <li><a href="index.html">Trang chủ</a></li>
+                        <li class="active">@ViewBag.Title</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+        <div>
+            @RenderBody()
+        </div>
+        <section class="ps-section ps-section--subscribe pt-80 pb-80">
+            <div class="container">
+                <div class="ps-subscribe">
+                    <div class="row">
+                        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ">
+                            <h4>Thông tin</h4>
+                            <p>Chúng tôi luôn cung cấp những miếng bánh hảo hạng, được kỳ công chế biến để phục vụ quý khách hàng. Chúng tôi luôn nỗ lực để cho ra nhiều loại bánh hơn. Cảm ơn quý khách đã tin tưởng vào sản phẩm của chúng tôi suốt thời gian qua.</p>
+                            <p class="text-uppercase ps-subscribe__highlight">416 Thạch Lam</p>
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 ">
+                            <a class="ps-subscribe__logo" href="index.html"><img src="~/images/logo-1.png" alt=""></a>
+                        </div>
+                        @Html.Action("Subcribe", "Nguoidung")
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="ps-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+                        <div class="ps-widget ps-widget--footer ps-widget--payment">
+                            <div class="ps-widget__header">
+                                <h3 class="ps-widget__title">PHƯƠNG THÚC THANH TOÁN</h3>
+                            </div>
+                            <div class="ps-widget__content">
+                                <ul>
+                                    <li><a href="#"><img src="~/images/payment/1.png" alt=""></a></li>
+                                    <li><a href="#"><img src="~/images/payment/2.png" alt=""></a></li>
+                                    <li><a href="#"><img src="~/images/payment/3.png" alt=""></a></li>
+                                    <li><a href="#"><img src="~/images/payment/4.png" alt=""></a></li>
+                                    <li><a href="#"><img src="~/images/payment/5.png" alt=""></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+                        <div class="ps-widget ps-widget--footer ps-widget--worktime">
+                            <div class="ps-widget__header">
+                                <h3 class="ps-widget__title">THỜI GIAN LÀM VIỆC</h3>
+                            </div>
+                            <div class="ps-widget__content">
+                                <p><strong>Thứ 2 - Thứ 6</strong> 8:00 am - 8:30 pm</p>
+                                <p><strong>Thứ 7 - Chủ Nhật</strong>10:00 am - 16:30 pm</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+                        <div class="ps-widget ps-widget--footer ps-widget--order">
+                            <div class="ps-widget__header">
+                                <h3 class="ps-widget__title">THÔNG TIN ĐIỀU KHOẢN</h3>
+                            </div>
+                            <div class="ps-widget__content">
+                                <ul class="ps-list--line">
+                                    <li><a href="#">Order</a></li>
+                                    <li><a href="#">Shipping</a></li>
+                                    <li><a href="#">Policy Return Policy</a></li>
+                                    <li><a href="#">Payments</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+                        <div class="ps-widget ps-widget--footer ps-widget--connect">
+                            <div class="ps-widget__header">
+                                <h3 class="ps-widget__title">KẾT NỐI VỚI CHÚNG TÔI</h3>
+                            </div>
+                            <div class="ps-widget__content" style="width:500px">
+                                <div class="fb-page" data-href="https://www.facebook.com/vanilla.phunhuan" data-tabs="timeline" data-width="350" data-height="100" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/VanilaBakery-318122522239553/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/VanilaBakery-318122522239553/">VanilaBakery</a></blockquote></div>
+                                <p>
+                                    Bản quyền &copy;
+                                    <script>document.write(new Date().getFullYear());</script> Thiết kế bởi<a href="#"> Team One</a>.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script type='text/javascript' id='~/plugins/quick-js'></script>
+    <script type="text/javascript" src="~/plugins/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="~/plugins/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="~/plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="~/plugins/overflow-text.js"></script>
+    <script type="text/javascript" src="~/plugins/masonry.pkgd.min.js"></script>
+    <script type="text/javascript" src="~/plugins/imagesloaded.pkgd.js"></script>
+    <script type="text/javascript" src="~/plugins/jquery-bar-rating/dist/jquery.barrating.min.js"></script>
+    <script type="text/javascript" src="~/plugins/jquery-nice-select/js/jquery.nice-select.min.js"></script>
+    <script type="text/javascript" src="~/plugins/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
+    <script type="text/javascript" src="~/plugins/jquery-ui/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="~/plugins/moment.js"></script>
+    <script type="text/javascript" src="~/plugins/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
+    <script type="text/javascript" src="~/plugins/slick/slick/slick.min.js"></script>
+    <script type="text/javascript" src="~/plugins/gmap3.min.js"></script>
+    <script type="text/javascript" src="~/plugins/lightGallery-master/dist/js/lightgallery-all.min.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAx39JFH5nhxze1ZydH-Kl8xXM3OK4fvcg&amp;region=GB"></script>
+    <!-- Revolution - slider-->
+    <script type="text/javascript" src="~/plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="~/plugins/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <!-- Custom scripts-->
+    <script type="text/javascript" src="~/Scripts/main.js"></script>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.2&appId=312088162785608&autoLogAppEvents=1"></script>
+
+    <script type='text/javascript' src='~/Scripts/js/jquery.js?ver=1.11.3'></script>
+
+    <script type='text/javascript' src='~/Scripts/js/jquery-migrate.js?ver=1.2.1'></script>
+    <script type='text/javascript' src='~/Scripts/js/modernizr.custom.js?ver=2.6.2'></script>
+    <script type='text/javascript' src='~/Scripts/js/bootstrap.js?ver=3.0.3'></script>
+    <script type='text/javascript' src='~/Scripts/js/flexslider/jquery.flexslider-min.js?ver=2.2.2'></script>
+    <script type='text/javascript' src='~/Scripts/js/carousel/owl.carousel.min.js?ver=1.31'></script>
+    <script type='text/javascript' src='~/Scripts/js/jquery.appear.js?ver =0.3.3'></script>
+    <script type='text/javascript' src='~/Scripts/js/jquery.hoverdir.js?ver=1.0'></script>
+    <script type='text/javascript' src='~/Scripts/js/image-lightbox/imagelightbox.js?ver=1.0'></script>
+    <script type='text/javascript' src='~/Scripts/js/jquery.isotope.min.js?ver=2.0'></script>
+    <script type='text/javascript' src='~/Scripts/js/jquery.validate.min.js?ver=1.11.1'></script>
+    <script type='text/javascript' src='~/Scripts/js/jquery.selectric.min.js?ver=1.7.0'></script>
+    <script type='text/javascript' src='~/Scripts/js/jquery.transit.js?ver=0.9.9'></script>
+    <script type='text/javascript' src='~/Scripts/js/jquery.meanmenu.min.js?ver=2.0.6'></script>
+    <script type='text/javascript' src='~/Scripts/js/custom.js?ver=1.3.1'></script>
+    @*ajax mvc*@
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+</body>
+</html>

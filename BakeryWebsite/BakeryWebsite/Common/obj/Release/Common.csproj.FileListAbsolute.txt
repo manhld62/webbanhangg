@@ -1,0 +1,5 @@
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\bin\Release\Common.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\bin\Release\Common.pdb
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\obj\Release\Common.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\obj\Release\Common.pdb

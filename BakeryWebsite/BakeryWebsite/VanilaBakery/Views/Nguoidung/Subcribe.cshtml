@@ -1,0 +1,12 @@
+﻿<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ">
+    <h4>Đăng ký nhận thông báo</h4>
+    <p>Hãy điền email của bạn tại đây. Bạn sẽ nhận được thông báo khi có sản phẩm mới hoặc giảm giá.</p>
+    <form class="ps-subscribe__form" method="post" action="">
+@using (Html.BeginForm("Subcribe", "NguoiDung", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+        <input class="form-control" type="text" placeholder="Nhập email..." name="Email">
+        <button class="ps-btn ps-btn--sm" type="submit">Đăng ký</button>
+}
+    </form>
+</div>

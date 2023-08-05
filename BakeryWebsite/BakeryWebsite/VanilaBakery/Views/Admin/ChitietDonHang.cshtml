@@ -1,0 +1,61 @@
+﻿@model IEnumerable<VanilaBakery.Models.CHITIETDONTHANG>
+@{
+    ViewBag.Title = "Chi Tiết Đơn Hàng";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style="text-align:center;color:red;">Chi Tiết Đơn Hàng</h2>
+@if (Session["admin"] != null)
+{
+    <div>@Html.Partial("Them2")</div>
+
+}
+<table id="table_id" class="display">
+    <thead>
+        <tr>
+            <th>Mã Đơn Hàng</th>
+            <th>Mã Bánh</th>
+            <th>Số Lượng</th>
+            <th>Đơn Giá</th>
+           
+         
+
+
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.MaDonHang)</td>
+                <td>@Html.DisplayFor(modelItem => item.MaBanh)</td>
+                <td>@Html.DisplayFor(modelItem => item.Soluong)</td>
+                <td>@Html.DisplayFor(modelItem => item.Dongia)</td>
+               
+                @if (Session["admin"] != null)
+                {
+                    <td>
+                        <div>
+                            <div>
+                                <a class="btn btn-primary" style="float:left; margin-right:10px" href="@Url.Action("Sua2","Admin", new { id = item.MaDonHang})">Sửa</a>
+                            </div>
+                            <div>
+                                <a class="btn btn-primary" style=" float:left; margin-top:10px" href="@Url.Action("Xoa2","Admin", new { id = item.MaDonHang}) ">Xóa</a>
+                            </div>
+                        </div>
+                    </td>
+
+                }
+            </tr>
+        </tbody>
+    }
+
+
+</table>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#table_id').DataTable();
+    });
+</script>

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<VanilaBakery.Models.BANH>
+<div class="ps-searchbox">
+    <div class="ps-searchbox__remove"><i class="fa fa-remove"></i></div>
+    <div class="container">
+        <header>
+            <p>Nhập từ khóa tìm kiếm:</p>
+            <form>
+                @using (Html.BeginForm("TimKiem","Nguoidung",FormMethod.Get,new { onsubmit = "return empty();" }))
+                {
+                    <input name="SearchString" value="@ViewBag.SearchString" class="form-control" type="text" placeholder="">
+                    <button type="submit"><i class="ps-icon--search"></i></button>
+                }
+            </form>
+        </header>
+        <div class="ps-searchbox__result">
+            <div class="row">
+                @foreach(var item in Model)
+                { 
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+                    <div class="ps-product--list ps-product--list-light mt-60">
+                        <div class="ps-product__thumbnail"><a class="ps-product__overlay" href="@Url.Action("ChiTiet","VanilaBakery",new { id = item.MaBanh })"></a><img src="~/images/cake/@item.Hinhanh" alt=""></div>
+                        <div class="ps-product__content">
+                            <h4 class="ps-product__title"><a href="@Url.Action("ChiTiet","VanilaBakery",new { id = item.MaBanh })">@item.TenBanh</a></h4>
+                            <p>@item.Mota</p>
+                            <p class="ps-product__price">
+                                <del>@String.Format("{0:0,0}", item.GiaChuaGiam)<sup>đ</sup></del>@String.Format("{0:0,0}", item.Giaban)<sup>đ</sup>
+                            </p><a class="ps-btn ps-btn--xs" href="@Url.Action("ThemGioHang","GioHang",new {@iMabanh=@item.MaBanh,@strURL=Request.Url.ToString() })">Thêm vào giỏ<i class="fa fa-angle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+        </div>
+        <footer class="text-center"><a class="ps-searchbox__morelink" href="#">XEM TẤT CẢ KẾT QUẢ</a></footer>
+    </div>
+</div>
+
+
